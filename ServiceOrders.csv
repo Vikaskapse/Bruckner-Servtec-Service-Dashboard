@@ -1,0 +1,501 @@
+Service ID,Service Date,Customer Name,Country,Plant Location
+BST-15977,30-03-2023,Taghleef Industries,Germany,Hamburg
+BST-15718,22-07-2023,Sealed Air,China,Shanghai
+BST-10474,11-10-2023,Coveris,Poland,Gdansk
+BST-11771,14-09-2023,Wipak,Brazil,Manaus
+BST-18318,22-03-2023,ExxonMobil Films,India,Mumbai
+BST-19977,13-07-2023,SRF Limited,USA,Los Angeles
+BST-14246,13-11-2023,Uflex,India,Mumbai
+BST-14092,05-04-2023,Taghleef Industries,India,Mumbai
+BST-11169,09-02-2023,Coveris,South Korea,Daejeon
+BST-13912,10-06-2023,Coveris,Turkey,Bursa
+BST-15977,26-03-2023,Winpak,Poland,Gdansk
+BST-12068,10-04-2023,Taghleef Industries,Italy,Verona
+BST-11336,09-02-2023,SRF Limited,USA,Chicago
+BST-11443,15-01-2023,Polyplex,Mexico,Mexico City
+BST-12697,05-10-2023,Vibac Group,Brazil,Curitiba
+BST-13978,02-11-2023,Treofan,USA,Houston
+BST-16232,10-10-2023,Cosmo Films,Brazil,Curitiba
+BST-11225,18-05-2023,Innovia Films,Germany,Stuttgart
+BST-14136,23-01-2023,Jindal Poly Films,Mexico,Puebla
+BST-17973,25-01-2023,Berry Global,Turkey,Istanbul
+BST-16939,05-01-2023,FlexFilms,USA,Detroit
+BST-11545,14-09-2023,Polyplex,Brazil,Belo Horizonte
+BST-10711,02-07-2023,Innovia Films,Italy,Verona
+BST-16570,28-07-2023,Uflex,USA,Detroit
+BST-10152,15-09-2023,Coverfilm,South Korea,Seoul
+BST-19336,28-10-2023,Alpla,China,Shanghai
+BST-12361,28-10-2023,Alpla,Poland,Gdansk
+BST-10106,24-03-2023,Multi-Color Corp,Germany,Siegsdorf
+BST-19946,17-11-2023,Uflex,Turkey,Istanbul
+BST-19502,15-12-2023,Jindal Poly Films,India,Chennai
+BST-16543,14-09-2023,Winpak,China,Shenzhen
+BST-19299,24-06-2023,Sealed Air,Mexico,Puebla
+BST-14569,29-05-2023,Borealis,China,Guangzhou
+BST-11317,21-01-2023,Polyplex,Mexico,Tijuana
+BST-15464,17-04-2023,Coverfilm,Poland,Wroclaw
+BST-18279,20-03-2023,Constantia Flexibles,Mexico,Monterrey
+BST-19424,08-01-2023,Berry Global,Turkey,Istanbul
+BST-10042,14-02-2023,Uflex,Brazil,Manaus
+BST-13595,10-06-2023,Huhtamaki,USA,Atlanta
+BST-19569,04-02-2023,Toray Plastics,Brazil,Curitiba
+BST-19042,30-06-2023,SRF Limited,Mexico,Mexico City
+BST-12060,30-12-2023,Jindal Poly Films,USA,Houston
+BST-17172,31-08-2023,Smurfit Kappa,Turkey,Izmir
+BST-17784,05-03-2023,SRF Limited,Turkey,Ankara
+BST-19726,06-07-2023,Berry Global,Turkey,Istanbul
+BST-16484,29-07-2023,Multi-Color Corp,Brazil,Belo Horizonte
+BST-11646,14-08-2023,Multi-Color Corp,Mexico,Guadalajara
+BST-17041,10-06-2023,Polyplex,South Korea,Daejeon
+BST-16790,17-09-2023,Polyplex,USA,Atlanta
+BST-16883,14-11-2023,Borealis,Brazil,Sao Paulo
+BST-13116,25-12-2023,Winpak,Germany,Stuttgart
+BST-18976,21-03-2023,Coveris,South Korea,Seoul
+BST-16229,12-07-2023,Multi-Color Corp,USA,Detroit
+BST-14011,07-02-2023,Toray Plastics,Mexico,Tijuana
+BST-17601,09-12-2023,Vibac Group,Poland,Gdansk
+BST-10341,28-08-2023,Jindal Poly Films,Italy,Verona
+BST-12608,25-02-2023,Winpak,South Korea,Daegu
+BST-19031,23-07-2023,Jindal Poly Films,China,Shanghai
+BST-18834,25-07-2023,Smurfit Kappa,Poland,Wroclaw
+BST-11275,25-06-2023,FlexFilms,USA,Detroit
+BST-17692,26-12-2023,Constantia Flexibles,Turkey,Ankara
+BST-10258,23-05-2023,Mondi Group,Turkey,Istanbul
+BST-19189,21-03-2023,Borealis,Germany,Hamburg
+BST-15974,13-06-2023,Huhtamaki,China,Shenzhen
+BST-15876,14-07-2023,Berry Global,Germany,Hamburg
+BST-14505,31-08-2023,Taghleef Industries,Italy,Verona
+BST-17048,12-01-2023,Innovia Films,Germany,Stuttgart
+BST-19260,10-05-2023,Smurfit Kappa,Poland,Krakow
+BST-19083,14-03-2023,Winpak,China,Shanghai
+BST-19016,11-02-2023,Jindal Poly Films,Brazil,Belo Horizonte
+BST-12536,26-09-2023,ExxonMobil Films,Turkey,Bursa
+BST-14871,28-01-2023,Innovia Films,Brazil,Curitiba
+BST-14422,02-06-2023,Jindal Poly Films,Poland,Krakow
+BST-12267,03-08-2023,Toray Plastics,India,Ahmedabad
+BST-19173,19-12-2023,Huhtamaki,Turkey,Adana
+BST-19740,01-07-2023,Alpla,China,Beijing
+BST-16594,06-01-2023,Inteplast Group,Mexico,Tijuana
+BST-11519,09-02-2023,Amcor,Mexico,Guadalajara
+BST-15931,16-03-2023,Mondi Group,Mexico,Puebla
+BST-16267,19-03-2023,FlexFilms,Italy,Milan
+BST-17397,13-09-2023,Coverfilm,Turkey,Ankara
+BST-17019,12-12-2023,Multi-Color Corp,Italy,Milan
+BST-12073,02-01-2023,Klöckner Pentaplast,Brazil,Manaus
+BST-13929,24-11-2023,Borealis,China,Beijing
+BST-17555,22-04-2023,Berry Global,USA,Chicago
+BST-17705,23-12-2023,Mondi Group,India,Mumbai
+BST-18282,13-07-2023,Amcor,China,Chengdu
+BST-16211,08-04-2023,Innovia Films,Italy,Turin
+BST-18821,09-07-2023,ProAmpac,Mexico,Monterrey
+BST-12885,04-06-2023,Coveris,Italy,Milan
+BST-14982,05-03-2023,Coverfilm,Brazil,Manaus
+BST-12902,31-07-2023,Wipak,Turkey,Bursa
+BST-14119,05-10-2023,Klöckner Pentaplast,Italy,Bologna
+BST-11480,28-02-2023,Klöckner Pentaplast,South Korea,Incheon
+BST-14460,08-08-2023,Inteplast Group,China,Beijing
+BST-12500,01-11-2023,Polyplex,China,Chengdu
+BST-19560,15-07-2023,Toray Plastics,South Korea,Daegu
+BST-14558,26-12-2023,ExxonMobil Films,Poland,Krakow
+BST-16735,23-02-2023,Constantia Flexibles,USA,Chicago
+BST-17206,30-07-2023,Jindal Poly Films,Germany,Hamburg
+BST-18698,06-10-2023,Treofan,Turkey,Adana
+BST-13388,25-10-2023,Treofan,Turkey,Adana
+BST-19767,04-08-2023,Alpla,Germany,Siegsdorf
+BST-11880,10-10-2023,Innovia Films,India,Mumbai
+BST-10757,29-08-2023,Transcontinental,USA,Houston
+BST-11771,31-07-2023,Treofan,Italy,Verona
+BST-14339,11-07-2023,Inteplast Group,Poland,Warsaw
+BST-10158,26-05-2023,Alpla,India,Delhi
+BST-13752,01-08-2023,SRF Limited,Brazil,Porto Alegre
+BST-10409,01-08-2023,ProAmpac,India,Pune
+BST-18584,20-03-2023,Taghleef Industries,Germany,Munich
+BST-19113,04-11-2023,Alpla,Italy,Naples
+BST-15111,20-10-2023,FlexFilms,Italy,Turin
+BST-19512,20-07-2023,Klöckner Pentaplast,India,Delhi
+BST-14892,27-01-2023,Innovia Films,Mexico,Tijuana
+BST-17905,07-03-2023,Alpla,Mexico,Tijuana
+BST-11020,26-07-2023,Winpak,Poland,Wroclaw
+BST-12858,23-03-2023,Coverfilm,Italy,Naples
+BST-18423,30-12-2023,Klöckner Pentaplast,India,Pune
+BST-17078,02-03-2023,Alpla,China,Chengdu
+BST-16049,18-11-2023,Winpak,Mexico,Tijuana
+BST-13997,23-03-2023,Inteplast Group,Brazil,Manaus
+BST-10715,17-02-2023,FlexFilms,India,Pune
+BST-16947,18-11-2023,Cosmo Films,Poland,Warsaw
+BST-15934,15-01-2023,Smurfit Kappa,Mexico,Guadalajara
+BST-17242,20-10-2023,Constantia Flexibles,South Korea,Seoul
+BST-11612,21-08-2023,Transcontinental,Germany,Stuttgart
+BST-10117,03-05-2023,Winpak,Italy,Turin
+BST-10100,10-04-2023,Winpak,India,Ahmedabad
+BST-15083,14-05-2023,Amcor,India,Mumbai
+BST-15352,12-02-2023,ProAmpac,Germany,Siegsdorf
+BST-14673,23-11-2023,Inteplast Group,China,Shanghai
+BST-15590,24-08-2023,Berry Global,USA,Chicago
+BST-13986,24-02-2023,Inteplast Group,Mexico,Monterrey
+BST-19528,03-04-2023,Uflex,Brazil,Porto Alegre
+BST-15942,05-07-2023,Jindal Poly Films,USA,Atlanta
+BST-12588,21-02-2023,Inteplast Group,India,Mumbai
+BST-12370,07-02-2023,Huhtamaki,Germany,Frankfurt
+BST-13138,18-12-2023,Huhtamaki,USA,Houston
+BST-17618,21-11-2023,Klöckner Pentaplast,Poland,Krakow
+BST-19201,03-04-2023,Inteplast Group,Turkey,Ankara
+BST-13505,04-12-2023,ExxonMobil Films,Germany,Stuttgart
+BST-10452,02-03-2023,Berry Global,Mexico,Monterrey
+BST-11622,11-11-2023,FlexFilms,Italy,Verona
+BST-11680,23-03-2023,Constantia Flexibles,South Korea,Seoul
+BST-13470,09-04-2023,Sealed Air,Brazil,Sao Paulo
+BST-17749,12-01-2023,Constantia Flexibles,Germany,Hamburg
+BST-16930,21-04-2023,Sealed Air,South Korea,Busan
+BST-19590,22-04-2023,Multi-Color Corp,Italy,Milan
+BST-13817,23-04-2023,Cosmo Films,Italy,Turin
+BST-10126,21-05-2023,Jindal Poly Films,China,Guangzhou
+BST-10525,28-06-2023,Huhtamaki,India,Pune
+BST-16070,28-08-2023,Wipak,South Korea,Incheon
+BST-19837,20-09-2023,Mondi Group,Turkey,Bursa
+BST-14088,30-03-2023,Transcontinental,India,Ahmedabad
+BST-12532,22-02-2023,Innovia Films,Brazil,Belo Horizonte
+BST-15403,26-03-2023,Berry Global,Mexico,Mexico City
+BST-11104,10-08-2023,Alpla,India,Mumbai
+BST-19813,02-11-2023,Coverfilm,Turkey,Bursa
+BST-12240,15-11-2023,Mondi Group,Brazil,Porto Alegre
+BST-18254,08-08-2023,Treofan,Mexico,Tijuana
+BST-13995,11-07-2023,Innovia Films,Mexico,Mexico City
+BST-15363,27-03-2023,Coverfilm,USA,Atlanta
+BST-12369,10-05-2023,Coverfilm,Germany,Hamburg
+BST-17541,06-11-2023,Berry Global,Poland,Krakow
+BST-14949,23-07-2023,Coveris,South Korea,Incheon
+BST-14915,15-06-2023,Cosmo Films,USA,Houston
+BST-13456,06-05-2023,Klöckner Pentaplast,China,Guangzhou
+BST-16209,10-07-2023,Jindal Poly Films,India,Ahmedabad
+BST-15794,05-01-2023,Uflex,Italy,Milan
+BST-11684,20-04-2023,FlexFilms,Germany,Siegsdorf
+BST-12153,30-04-2023,Borealis,Mexico,Mexico City
+BST-12417,26-05-2023,Amcor,USA,Atlanta
+BST-11233,22-04-2023,Constantia Flexibles,India,Delhi
+BST-12979,08-11-2023,Treofan,South Korea,Incheon
+BST-15764,27-11-2023,Coverfilm,USA,Los Angeles
+BST-10601,13-06-2023,Klöckner Pentaplast,Poland,Krakow
+BST-15736,10-09-2023,Innovia Films,India,Pune
+BST-13006,04-08-2023,Huhtamaki,Germany,Siegsdorf
+BST-19441,29-03-2023,Treofan,USA,Atlanta
+BST-14315,16-07-2023,Constantia Flexibles,Italy,Naples
+BST-18022,26-05-2023,Vibac Group,Mexico,Monterrey
+BST-13683,25-08-2023,Cosmo Films,Mexico,Monterrey
+BST-19554,19-01-2023,ExxonMobil Films,China,Beijing
+BST-16512,21-01-2023,Coverfilm,South Korea,Daejeon
+BST-17527,29-08-2023,FlexFilms,Germany,Munich
+BST-11697,21-05-2023,Treofan,Poland,Krakow
+BST-11124,10-02-2023,FlexFilms,Italy,Verona
+BST-12471,10-11-2023,Amcor,Italy,Verona
+BST-14345,23-12-2023,Taghleef Industries,Poland,Krakow
+BST-14471,11-07-2023,Borealis,Turkey,Istanbul
+BST-18179,25-04-2023,Constantia Flexibles,USA,Chicago
+BST-17451,23-02-2023,Taghleef Industries,Germany,Stuttgart
+BST-18669,29-03-2023,FlexFilms,Poland,Wroclaw
+BST-13441,03-10-2023,Jindal Poly Films,India,Ahmedabad
+BST-19933,23-01-2023,Cosmo Films,Germany,Siegsdorf
+BST-10606,08-02-2023,Treofan,Germany,Siegsdorf
+BST-14097,14-07-2023,SRF Limited,Italy,Naples
+BST-10474,26-10-2023,SRF Limited,China,Shenzhen
+BST-15119,13-06-2023,Borealis,USA,Houston
+BST-10128,31-07-2023,Multi-Color Corp,China,Chengdu
+BST-17708,25-09-2023,Winpak,Turkey,Istanbul
+BST-13727,02-09-2023,Sealed Air,India,Delhi
+BST-14564,14-06-2023,ProAmpac,Turkey,Izmir
+BST-19131,17-02-2023,Smurfit Kappa,Turkey,Ankara
+BST-11070,30-06-2023,SRF Limited,Brazil,Sao Paulo
+BST-17253,22-12-2023,Amcor,India,Chennai
+BST-11801,31-01-2023,Jindal Poly Films,USA,Atlanta
+BST-15502,28-08-2023,Innovia Films,Germany,Stuttgart
+BST-11137,07-09-2023,Coveris,Poland,Wroclaw
+BST-18938,30-10-2023,Treofan,Italy,Turin
+BST-18935,10-06-2023,Smurfit Kappa,South Korea,Daejeon
+BST-12170,02-12-2023,Smurfit Kappa,Brazil,Belo Horizonte
+BST-19995,08-03-2023,Uflex,South Korea,Seoul
+BST-16311,20-08-2023,Vibac Group,Italy,Verona
+BST-16523,14-04-2023,Multi-Color Corp,Mexico,Puebla
+BST-10434,05-02-2023,Smurfit Kappa,Poland,Wroclaw
+BST-14906,18-12-2023,SRF Limited,Poland,Wroclaw
+BST-13073,17-03-2023,ExxonMobil Films,Mexico,Monterrey
+BST-15120,04-05-2023,Borealis,USA,Chicago
+BST-15053,17-05-2023,Cosmo Films,Turkey,Ankara
+BST-12184,20-08-2023,Cosmo Films,Turkey,Adana
+BST-15529,09-10-2023,Polyplex,Brazil,Sao Paulo
+BST-17144,19-04-2023,Jindal Poly Films,Italy,Verona
+BST-19697,09-08-2023,Uflex,Poland,Poznan
+BST-13919,14-08-2023,Sealed Air,Italy,Milan
+BST-15751,26-01-2023,SRF Limited,Italy,Milan
+BST-19869,10-04-2023,Winpak,Poland,Gdansk
+BST-19909,01-04-2023,ExxonMobil Films,India,Mumbai
+BST-11146,08-11-2023,Constantia Flexibles,Brazil,Manaus
+BST-15553,25-02-2023,Huhtamaki,South Korea,Daegu
+BST-12002,26-02-2023,ProAmpac,Germany,Stuttgart
+BST-19121,19-01-2023,Vibac Group,USA,Chicago
+BST-16371,03-02-2023,Berry Global,Brazil,Curitiba
+BST-13598,26-04-2023,Amcor,USA,Detroit
+BST-19562,20-07-2023,Coverfilm,Mexico,Tijuana
+BST-16678,21-12-2023,Transcontinental,USA,Houston
+BST-14861,29-03-2023,SRF Limited,Turkey,Ankara
+BST-14681,23-11-2023,Alpla,India,Ahmedabad
+BST-16785,02-01-2023,ExxonMobil Films,Mexico,Mexico City
+BST-17461,25-12-2023,Treofan,China,Chengdu
+BST-13705,19-12-2023,Constantia Flexibles,Turkey,Izmir
+BST-16302,15-12-2023,Vibac Group,China,Guangzhou
+BST-17350,20-06-2023,Jindal Poly Films,China,Shenzhen
+BST-14506,07-01-2023,Coverfilm,Turkey,Ankara
+BST-11582,21-06-2023,ProAmpac,Turkey,Bursa
+BST-12129,09-02-2023,Cosmo Films,China,Guangzhou
+BST-11976,30-06-2023,Toray Plastics,Germany,Hamburg
+BST-19700,08-09-2023,Huhtamaki,Mexico,Monterrey
+BST-12103,26-02-2023,Multi-Color Corp,India,Mumbai
+BST-10546,15-12-2023,Taghleef Industries,Germany,Hamburg
+BST-17305,15-09-2023,ExxonMobil Films,India,Delhi
+BST-13566,21-02-2023,Toray Plastics,China,Shanghai
+BST-19043,09-09-2023,ExxonMobil Films,Italy,Verona
+BST-18751,12-05-2023,Mondi Group,Italy,Naples
+BST-18196,06-07-2023,ProAmpac,Turkey,Izmir
+BST-16916,04-06-2023,Borealis,Germany,Siegsdorf
+BST-18928,06-12-2023,Wipak,Italy,Naples
+BST-19096,27-02-2023,Multi-Color Corp,Mexico,Tijuana
+BST-14173,17-03-2023,SRF Limited,South Korea,Seoul
+BST-16812,02-07-2023,Klöckner Pentaplast,India,Chennai
+BST-14533,23-10-2023,Huhtamaki,Germany,Stuttgart
+BST-17611,16-04-2023,Mondi Group,Poland,Krakow
+BST-12547,13-07-2023,Mondi Group,USA,Houston
+BST-15881,17-11-2023,Winpak,USA,Detroit
+BST-12531,27-09-2023,ProAmpac,South Korea,Daegu
+BST-16022,19-06-2023,Toray Plastics,Brazil,Porto Alegre
+BST-19066,22-05-2023,Transcontinental,Mexico,Tijuana
+BST-14082,24-10-2023,ExxonMobil Films,India,Pune
+BST-11476,04-03-2023,Sealed Air,Italy,Naples
+BST-14564,27-06-2023,Klöckner Pentaplast,Turkey,Adana
+BST-17700,13-09-2023,ExxonMobil Films,USA,Chicago
+BST-16580,15-12-2023,Inteplast Group,China,Beijing
+BST-10422,16-11-2023,Uflex,South Korea,Incheon
+BST-14499,07-09-2023,Amcor,China,Guangzhou
+BST-13652,08-01-2023,ExxonMobil Films,USA,Detroit
+BST-18850,25-05-2023,Borealis,Germany,Stuttgart
+BST-11395,28-01-2023,Coveris,Mexico,Monterrey
+BST-15456,09-08-2023,Huhtamaki,Brazil,Sao Paulo
+BST-16744,09-05-2023,Polyplex,Germany,Munich
+BST-12851,15-09-2023,Uflex,Italy,Bologna
+BST-13750,14-02-2023,ProAmpac,South Korea,Busan
+BST-13777,11-04-2023,Wipak,Brazil,Curitiba
+BST-11887,29-05-2023,Klöckner Pentaplast,Mexico,Monterrey
+BST-15655,01-07-2023,Vibac Group,Germany,Frankfurt
+BST-15539,24-07-2023,Vibac Group,Poland,Gdansk
+BST-18229,04-06-2023,Coverfilm,USA,Detroit
+BST-13770,16-10-2023,Constantia Flexibles,Brazil,Curitiba
+BST-18998,13-03-2023,Klöckner Pentaplast,Italy,Naples
+BST-18691,11-03-2023,ProAmpac,India,Ahmedabad
+BST-16939,04-06-2023,Klöckner Pentaplast,South Korea,Busan
+BST-18725,18-10-2023,ExxonMobil Films,USA,Detroit
+BST-13830,04-04-2023,Inteplast Group,Turkey,Adana
+BST-13826,12-03-2023,Transcontinental,Poland,Warsaw
+BST-19038,15-09-2023,Sealed Air,Turkey,Izmir
+BST-17538,01-07-2023,Inteplast Group,Italy,Verona
+BST-11251,30-07-2023,Klöckner Pentaplast,Turkey,Bursa
+BST-10508,14-01-2023,Borealis,Germany,Hamburg
+BST-12584,13-03-2023,Smurfit Kappa,Poland,Warsaw
+BST-10058,25-10-2023,Constantia Flexibles,Brazil,Curitiba
+BST-19221,14-11-2023,Sealed Air,Italy,Turin
+BST-10685,28-01-2023,Amcor,Mexico,Mexico City
+BST-11743,26-07-2023,Smurfit Kappa,Poland,Wroclaw
+BST-13853,23-09-2023,ProAmpac,Germany,Frankfurt
+BST-12504,29-01-2023,Borealis,Germany,Munich
+BST-14938,01-11-2023,SRF Limited,USA,Detroit
+BST-13262,04-09-2023,Treofan,Brazil,Manaus
+BST-10888,04-03-2023,Wipak,Italy,Milan
+BST-15003,28-01-2023,Mondi Group,Mexico,Puebla
+BST-11160,15-03-2023,Wipak,India,Delhi
+BST-14183,25-04-2023,Amcor,Turkey,Ankara
+BST-19571,18-11-2023,Coverfilm,China,Guangzhou
+BST-17359,16-11-2023,ExxonMobil Films,Germany,Frankfurt
+BST-15413,04-02-2023,Wipak,India,Pune
+BST-15912,03-03-2023,Cosmo Films,China,Chengdu
+BST-17433,15-04-2023,Sealed Air,USA,Houston
+BST-14333,16-09-2023,Treofan,Turkey,Istanbul
+BST-16484,04-03-2023,Borealis,Poland,Warsaw
+BST-12972,05-04-2023,ExxonMobil Films,Poland,Gdansk
+BST-19202,14-05-2023,Coveris,India,Delhi
+BST-11965,03-12-2023,Coveris,Mexico,Tijuana
+BST-11193,16-03-2023,Constantia Flexibles,USA,Atlanta
+BST-17787,14-03-2023,Winpak,Germany,Stuttgart
+BST-17939,19-09-2023,Coveris,India,Chennai
+BST-11113,01-09-2023,Mondi Group,South Korea,Busan
+BST-14986,08-12-2023,Huhtamaki,Brazil,Porto Alegre
+BST-19195,08-07-2023,Treofan,Mexico,Tijuana
+BST-15383,17-07-2023,ProAmpac,Brazil,Belo Horizonte
+BST-19935,02-08-2023,Wipak,USA,Atlanta
+BST-17616,15-01-2023,Coveris,Poland,Wroclaw
+BST-14342,16-10-2023,ExxonMobil Films,Turkey,Istanbul
+BST-15728,05-06-2023,Transcontinental,Germany,Hamburg
+BST-12579,22-01-2023,Taghleef Industries,Mexico,Tijuana
+BST-13871,28-08-2023,Inteplast Group,Italy,Turin
+BST-15992,05-01-2023,Coverfilm,Turkey,Izmir
+BST-15260,15-09-2023,Toray Plastics,Italy,Naples
+BST-17179,19-07-2023,Innovia Films,Italy,Naples
+BST-18837,02-12-2023,Sealed Air,USA,Houston
+BST-10207,23-06-2023,Uflex,Italy,Naples
+BST-15568,04-12-2023,Borealis,China,Guangzhou
+BST-15180,27-11-2023,ExxonMobil Films,Poland,Warsaw
+BST-13848,07-11-2023,Huhtamaki,Poland,Gdansk
+BST-11796,29-12-2023,ProAmpac,China,Chengdu
+BST-13770,13-05-2023,Inteplast Group,South Korea,Daejeon
+BST-18540,25-10-2023,Uflex,Italy,Naples
+BST-14332,26-07-2023,Polyplex,Mexico,Puebla
+BST-13872,23-03-2023,Jindal Poly Films,Germany,Munich
+BST-17264,13-09-2023,Vibac Group,USA,Chicago
+BST-15155,29-04-2023,Inteplast Group,Turkey,Izmir
+BST-13510,31-03-2023,Smurfit Kappa,India,Pune
+BST-15772,02-02-2023,Mondi Group,Poland,Gdansk
+BST-19246,28-02-2023,Taghleef Industries,Mexico,Mexico City
+BST-16511,11-07-2023,Taghleef Industries,USA,Atlanta
+BST-16843,14-06-2023,Constantia Flexibles,Germany,Stuttgart
+BST-11166,10-03-2023,Treofan,Turkey,Bursa
+BST-11122,13-04-2023,Winpak,Mexico,Puebla
+BST-12076,13-08-2023,Innovia Films,Brazil,Belo Horizonte
+BST-15409,14-04-2023,ProAmpac,Brazil,Curitiba
+BST-19044,28-09-2023,Mondi Group,China,Beijing
+BST-15067,26-10-2023,Alpla,India,Pune
+BST-13531,18-01-2023,Cosmo Films,USA,Houston
+BST-14658,04-07-2023,Alpla,China,Shanghai
+BST-11343,07-10-2023,Smurfit Kappa,Poland,Poznan
+BST-13130,05-04-2023,Multi-Color Corp,USA,Detroit
+BST-18818,08-04-2023,ProAmpac,South Korea,Daegu
+BST-14920,31-08-2023,Coveris,India,Delhi
+BST-10200,13-11-2023,Sealed Air,Italy,Bologna
+BST-16596,04-02-2023,Coverfilm,South Korea,Busan
+BST-15213,06-02-2023,Borealis,Poland,Gdansk
+BST-12546,22-09-2023,Berry Global,USA,Houston
+BST-18071,13-09-2023,ExxonMobil Films,USA,Chicago
+BST-17894,04-10-2023,Vibac Group,Germany,Hamburg
+BST-14562,29-05-2023,FlexFilms,Germany,Stuttgart
+BST-17285,27-12-2023,Inteplast Group,Brazil,Belo Horizonte
+BST-18041,28-05-2023,Polyplex,USA,Houston
+BST-10319,04-05-2023,Jindal Poly Films,South Korea,Daejeon
+BST-17102,14-09-2023,Multi-Color Corp,South Korea,Daejeon
+BST-17579,30-01-2023,ExxonMobil Films,Poland,Poznan
+BST-14477,30-08-2023,Amcor,USA,Los Angeles
+BST-12705,17-01-2023,Inteplast Group,Brazil,Sao Paulo
+BST-11084,13-04-2023,FlexFilms,Poland,Krakow
+BST-15147,15-04-2023,FlexFilms,Germany,Stuttgart
+BST-15464,01-05-2023,Amcor,Italy,Milan
+BST-18090,09-11-2023,Huhtamaki,USA,Los Angeles
+BST-15661,06-02-2023,Wipak,Germany,Siegsdorf
+BST-17532,11-02-2023,Klöckner Pentaplast,Mexico,Puebla
+BST-19966,08-03-2023,Coverfilm,South Korea,Daegu
+BST-12037,19-01-2023,SRF Limited,Germany,Munich
+BST-14272,29-11-2023,Huhtamaki,South Korea,Busan
+BST-16929,05-06-2023,Polyplex,Poland,Gdansk
+BST-18837,29-01-2023,Alpla,India,Pune
+BST-13475,08-11-2023,Cosmo Films,India,Delhi
+BST-12167,10-10-2023,Multi-Color Corp,Poland,Warsaw
+BST-14451,13-07-2023,Huhtamaki,Germany,Frankfurt
+BST-17486,26-12-2023,Wipak,China,Beijing
+BST-12854,01-03-2023,Klöckner Pentaplast,South Korea,Busan
+BST-17373,08-07-2023,Borealis,USA,Los Angeles
+BST-19647,12-08-2023,Polyplex,India,Ahmedabad
+BST-13657,29-04-2023,Inteplast Group,Germany,Stuttgart
+BST-17055,27-04-2023,Jindal Poly Films,Mexico,Monterrey
+BST-10651,24-01-2023,Klöckner Pentaplast,South Korea,Daejeon
+BST-12579,30-01-2023,Alpla,Germany,Stuttgart
+BST-16868,13-08-2023,Jindal Poly Films,Germany,Stuttgart
+BST-18692,10-06-2023,Toray Plastics,Brazil,Sao Paulo
+BST-18117,30-05-2023,Polyplex,Mexico,Guadalajara
+BST-16798,03-09-2023,Uflex,Mexico,Tijuana
+BST-10053,09-02-2023,ProAmpac,USA,Chicago
+BST-15559,11-09-2023,SRF Limited,South Korea,Busan
+BST-18199,16-08-2023,Wipak,Italy,Turin
+BST-18890,10-10-2023,Wipak,Brazil,Porto Alegre
+BST-19333,17-05-2023,ExxonMobil Films,India,Delhi
+BST-18479,23-02-2023,FlexFilms,South Korea,Daejeon
+BST-16498,28-12-2023,Taghleef Industries,Italy,Verona
+BST-19190,10-02-2023,Constantia Flexibles,Turkey,Izmir
+BST-10861,29-04-2023,Innovia Films,China,Chengdu
+BST-19405,04-03-2023,ExxonMobil Films,South Korea,Busan
+BST-18464,01-05-2023,Polyplex,China,Shanghai
+BST-12683,28-02-2023,Wipak,Turkey,Bursa
+BST-18115,19-05-2023,Cosmo Films,Turkey,Istanbul
+BST-14728,03-06-2023,SRF Limited,Mexico,Tijuana
+BST-14891,23-05-2023,Coveris,USA,Chicago
+BST-14720,11-09-2023,Multi-Color Corp,Mexico,Tijuana
+BST-11729,16-08-2023,Cosmo Films,Poland,Gdansk
+BST-18238,14-07-2023,Taghleef Industries,India,Chennai
+BST-12414,27-01-2023,Toray Plastics,Poland,Poznan
+BST-12068,05-10-2023,ProAmpac,Brazil,Sao Paulo
+BST-18922,08-11-2023,Smurfit Kappa,Italy,Milan
+BST-11644,30-10-2023,Smurfit Kappa,Italy,Bologna
+BST-17749,15-11-2023,Innovia Films,Germany,Siegsdorf
+BST-13143,25-02-2023,Klöckner Pentaplast,Poland,Warsaw
+BST-13289,01-10-2023,Amcor,Poland,Krakow
+BST-11911,18-10-2023,Borealis,Poland,Poznan
+BST-10977,25-03-2023,Smurfit Kappa,South Korea,Incheon
+BST-18850,09-03-2023,Transcontinental,Turkey,Ankara
+BST-11882,16-12-2023,Inteplast Group,Germany,Siegsdorf
+BST-14700,05-10-2023,SRF Limited,USA,Houston
+BST-12955,22-07-2023,ExxonMobil Films,Italy,Naples
+BST-12286,05-07-2023,Taghleef Industries,Mexico,Mexico City
+BST-13728,07-01-2023,SRF Limited,Brazil,Manaus
+BST-11674,05-12-2023,Treofan,Brazil,Manaus
+BST-17753,16-08-2023,FlexFilms,Brazil,Curitiba
+BST-16505,05-01-2023,Borealis,Germany,Frankfurt
+BST-15869,03-09-2023,Borealis,Germany,Siegsdorf
+BST-14835,29-07-2023,Winpak,South Korea,Busan
+BST-19763,22-05-2023,Taghleef Industries,Mexico,Monterrey
+BST-14232,10-06-2023,Coverfilm,Mexico,Puebla
+BST-15016,13-05-2023,Jindal Poly Films,Turkey,Ankara
+BST-17724,11-09-2023,Smurfit Kappa,Brazil,Porto Alegre
+BST-12159,17-03-2023,Uflex,India,Chennai
+BST-14719,30-04-2023,Multi-Color Corp,Mexico,Monterrey
+BST-11964,17-12-2023,Treofan,Germany,Stuttgart
+BST-12842,12-06-2023,Sealed Air,Turkey,Adana
+BST-18445,01-02-2023,Taghleef Industries,South Korea,Busan
+BST-11889,09-01-2023,Wipak,Brazil,Porto Alegre
+BST-19607,23-01-2023,ProAmpac,Italy,Naples
+BST-18791,25-02-2023,Constantia Flexibles,India,Ahmedabad
+BST-17811,27-02-2023,Jindal Poly Films,South Korea,Daegu
+BST-11494,15-04-2023,Sealed Air,USA,Houston
+BST-19406,15-12-2023,FlexFilms,Mexico,Mexico City
+BST-13846,25-05-2023,Klöckner Pentaplast,USA,Atlanta
+BST-13150,07-11-2023,Uflex,Germany,Siegsdorf
+BST-17195,28-07-2023,Alpla,Italy,Bologna
+BST-10430,31-05-2023,Coverfilm,Italy,Verona
+BST-18348,08-07-2023,Constantia Flexibles,Germany,Stuttgart
+BST-13626,30-10-2023,Taghleef Industries,Brazil,Curitiba
+BST-18689,19-04-2023,Cosmo Films,USA,Los Angeles
+BST-12236,18-09-2023,Alpla,Italy,Naples
+BST-18808,21-04-2023,Alpla,Mexico,Mexico City
+BST-16227,03-12-2023,Transcontinental,Mexico,Monterrey
+BST-19370,29-11-2023,Mondi Group,China,Beijing
+BST-15419,17-10-2023,Jindal Poly Films,USA,Houston
+BST-13044,03-08-2023,Sealed Air,Mexico,Puebla
+BST-10949,27-01-2023,Amcor,USA,Los Angeles
+BST-13680,24-09-2023,Constantia Flexibles,Turkey,Adana
+BST-11832,10-04-2023,Borealis,Italy,Bologna
+BST-19654,05-05-2023,Coveris,Mexico,Mexico City
+BST-14334,29-04-2023,FlexFilms,India,Ahmedabad
+BST-11624,21-12-2023,Borealis,Italy,Milan
+BST-14786,05-07-2023,Vibac Group,Turkey,Bursa
+BST-19819,16-09-2023,Jindal Poly Films,Italy,Naples
+BST-12950,06-11-2023,Jindal Poly Films,Italy,Verona
+BST-17994,28-04-2023,Vibac Group,Turkey,Bursa
+BST-14889,06-05-2023,Berry Global,China,Chengdu
+BST-18595,07-12-2023,Smurfit Kappa,Poland,Poznan
+BST-13898,27-05-2023,Uflex,Mexico,Mexico City
+BST-10919,11-02-2023,FlexFilms,Italy,Milan
+BST-15793,17-03-2023,Klöckner Pentaplast,Poland,Poznan
+BST-15183,03-04-2023,Berry Global,Turkey,Ankara
+BST-17213,27-03-2023,Coverfilm,Turkey,Istanbul
+BST-15378,11-10-2023,Treofan,Poland,Krakow
+BST-15314,06-03-2023,Wipak,Turkey,Istanbul
+BST-11753,13-01-2023,Multi-Color Corp,Germany,Frankfurt
+BST-14640,09-03-2023,Wipak,China,Shanghai
+BST-16565,05-08-2023,Sealed Air,South Korea,Daegu
+BST-16149,23-12-2023,Polyplex,China,Beijing
+BST-10858,02-03-2023,Amcor,India,Ahmedabad
+BST-11535,08-11-2023,FlexFilms,Italy,Naples
+BST-13846,07-02-2023,Constantia Flexibles,USA,Chicago
+BST-10771,29-07-2023,Mondi Group,Italy,Verona
+BST-15038,29-05-2023,Winpak,Turkey,Bursa

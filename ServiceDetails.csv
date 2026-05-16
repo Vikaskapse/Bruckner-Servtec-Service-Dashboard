@@ -1,0 +1,1501 @@
+Service ID,Revenue (EUR),Gross Margin (EUR),Units Serviced,Service Category,Service Type,Contract Type
+BST-11824,84778,24187,20,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-10409,20286,1820,16,Process Optimization,Yield Improvement,Warranty
+BST-14506,36502,8812,12,Process Optimization,Yield Improvement,EMI Finance
+BST-14012,61021,6218,2,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-13657,84997,43709,3,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-12286,50894,5736,18,Process Optimization,Throughput Analysis,Annual Contract
+BST-11679,25172,-716,16,Electrical & Automation,HMI Replacement,EMI Finance
+BST-18935,59550,-14678,11,Mechanical Service,Line Inspection,Annual Contract
+BST-11424,5630,-575,15,Process Optimization,Line Balancing,Warranty
+BST-19674,80428,-15382,12,Process Optimization,Throughput Analysis,Framework Agreement
+BST-16912,44850,14751,2,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-10520,12887,2680,13,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-10488,20209,-336,19,Electrical & Automation,HMI Replacement,Spot Order
+BST-11535,51874,-11466,3,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-13582,84843,37471,5,Process Optimization,Scrap Reduction,EMI Finance
+BST-13811,67148,794,12,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-18279,45291,27068,16,Mechanical Service,Roll Replacement,Spot Order
+BST-19863,20808,-5677,4,Mechanical Service,Roll Replacement,EMI Finance
+BST-10434,5447,1699,20,Process Optimization,Throughput Analysis,Spot Order
+BST-19195,20718,-3889,20,Process Optimization,Scrap Reduction,Spot Order
+BST-13257,6226,378,8,Process Optimization,Scrap Reduction,Warranty
+BST-18928,59341,-6883,8,Process Optimization,Yield Improvement,Framework Agreement
+BST-16873,48713,15992,19,Electrical & Automation,Sensor Calibration,Warranty
+BST-13611,50552,7729,14,Electrical & Automation,Control Panel Service,Spot Order
+BST-17359,18640,9748,2,Mechanical Service,Frame Repair,Warranty
+BST-19654,13946,5040,17,Electrical & Automation,HMI Replacement,Annual Contract
+BST-14557,21512,-1660,17,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10106,29602,13815,12,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-12615,52464,7974,8,Electrical & Automation,PLC Upgrade,Warranty
+BST-16924,29930,-9631,4,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-15574,5520,-348,16,Mechanical Service,Roll Replacement,Spot Order
+BST-14552,59299,15734,3,Process Optimization,Scrap Reduction,Annual Contract
+BST-12547,20097,3995,20,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-13527,38262,-4299,4,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-15514,84248,37397,15,Mechanical Service,Oven Maintenance,Annual Contract
+BST-11674,78715,14645,17,Mechanical Service,Oven Maintenance,EMI Finance
+BST-11519,38677,3064,20,Mechanical Service,Roll Replacement,Framework Agreement
+BST-16224,55100,-8964,3,Mechanical Service,Frame Repair,EMI Finance
+BST-11584,69451,13479,17,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-15881,62121,-19037,13,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-15635,47305,20744,12,Electrical & Automation,PLC Upgrade,Spot Order
+BST-19891,76771,29571,11,Process Optimization,OEE Consulting,Spot Order
+BST-14333,72067,-825,6,Mechanical Service,Drive Overhaul,Warranty
+BST-10711,83302,-13971,5,Process Optimization,Scrap Reduction,Annual Contract
+BST-17527,5347,-302,2,Process Optimization,Scrap Reduction,Spot Order
+BST-18785,41142,6804,18,Mechanical Service,Drive Overhaul,Warranty
+BST-12045,25548,-1632,2,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-16201,48737,4237,13,Electrical & Automation,PLC Upgrade,Warranty
+BST-11291,24986,3653,16,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-19044,11328,4271,3,Process Optimization,Yield Improvement,Warranty
+BST-14803,71996,-4048,4,Process Optimization,Line Balancing,Annual Contract
+BST-15925,40673,3901,14,Electrical & Automation,Control Panel Service,Spot Order
+BST-19459,46577,4524,12,Process Optimization,Scrap Reduction,EMI Finance
+BST-13150,84316,53121,2,Electrical & Automation,Control Panel Service,Annual Contract
+BST-11139,48119,7847,6,Process Optimization,Scrap Reduction,Annual Contract
+BST-10750,57932,-18260,3,Mechanical Service,Frame Repair,Spot Order
+BST-13733,47967,1575,19,Process Optimization,Yield Improvement,Annual Contract
+BST-14741,59472,35613,12,Process Optimization,Line Balancing,Warranty
+BST-11307,18547,3328,13,Mechanical Service,Frame Repair,Framework Agreement
+BST-13814,33217,20279,1,Process Optimization,Yield Improvement,Spot Order
+BST-11654,51223,28866,4,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-16227,28624,18501,10,Electrical & Automation,Drive Tuning,Warranty
+BST-14554,18290,9196,15,Mechanical Service,Line Inspection,Spot Order
+BST-17428,12006,5528,11,Process Optimization,Scrap Reduction,Framework Agreement
+BST-15977,72589,13949,10,Process Optimization,OEE Consulting,Spot Order
+BST-12664,47881,7601,4,Process Optimization,Line Balancing,Spot Order
+BST-16065,65252,-21123,18,Mechanical Service,Roll Replacement,EMI Finance
+BST-15820,72805,-16033,3,Electrical & Automation,Drive Tuning,Annual Contract
+BST-13432,63239,11110,14,Electrical & Automation,Drive Tuning,EMI Finance
+BST-14374,42053,12293,15,Mechanical Service,Roll Replacement,Warranty
+BST-11169,45656,-10120,18,Process Optimization,Throughput Analysis,EMI Finance
+BST-19980,57204,8744,2,Mechanical Service,Roll Replacement,Annual Contract
+BST-12803,40362,-7480,11,Process Optimization,Line Balancing,Spot Order
+BST-18751,37730,18711,9,Electrical & Automation,HMI Replacement,Spot Order
+BST-14010,36472,-8199,10,Process Optimization,Throughput Analysis,EMI Finance
+BST-12677,66373,19313,19,Process Optimization,OEE Consulting,EMI Finance
+BST-17573,82351,30521,20,Mechanical Service,Roll Replacement,Framework Agreement
+BST-16216,4218,-1133,19,Process Optimization,OEE Consulting,Framework Agreement
+BST-14422,75491,5026,1,Process Optimization,Line Balancing,Warranty
+BST-19125,38467,11228,10,Process Optimization,Throughput Analysis,Warranty
+BST-13598,39485,4088,2,Mechanical Service,Oven Maintenance,Spot Order
+BST-15313,63971,7320,11,Electrical & Automation,Drive Tuning,EMI Finance
+BST-10916,42353,16272,12,Mechanical Service,Drive Overhaul,Warranty
+BST-13752,67999,14392,11,Mechanical Service,Drive Overhaul,Spot Order
+BST-10525,35558,3541,5,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-15168,50851,26145,14,Mechanical Service,Drive Overhaul,Spot Order
+BST-16572,76218,28286,7,Mechanical Service,Drive Overhaul,Spot Order
+BST-14386,61686,9176,10,Electrical & Automation,HMI Replacement,Warranty
+BST-11084,52043,8089,8,Mechanical Service,Line Inspection,Spot Order
+BST-13456,6877,-2059,16,Process Optimization,Yield Improvement,EMI Finance
+BST-19292,37953,7085,4,Process Optimization,Scrap Reduction,Warranty
+BST-15155,48443,20048,12,Mechanical Service,Drive Overhaul,Annual Contract
+BST-13483,75247,15938,12,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-18179,51139,7888,18,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-16482,16072,-3557,4,Process Optimization,Throughput Analysis,Warranty
+BST-17517,73616,43356,5,Electrical & Automation,Control Panel Service,Spot Order
+BST-12340,53110,7970,2,Process Optimization,Throughput Analysis,Annual Contract
+BST-14339,62594,10599,5,Mechanical Service,Drive Overhaul,EMI Finance
+BST-12287,43487,25281,11,Process Optimization,Line Balancing,Spot Order
+BST-14040,39721,9680,17,Electrical & Automation,HMI Replacement,EMI Finance
+BST-19197,74283,-3729,1,Process Optimization,Scrap Reduction,Framework Agreement
+BST-18830,55096,12876,1,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-14304,76321,17373,2,Electrical & Automation,Control Panel Service,EMI Finance
+BST-19577,69212,19311,20,Electrical & Automation,Sensor Calibration,Warranty
+BST-17019,4638,1032,4,Mechanical Service,Roll Replacement,Spot Order
+BST-19560,41616,2862,14,Mechanical Service,Oven Maintenance,Spot Order
+BST-16543,80647,46010,2,Electrical & Automation,HMI Replacement,Spot Order
+BST-15930,74016,-1846,16,Process Optimization,Line Balancing,EMI Finance
+BST-13593,23199,2544,18,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-12266,84819,38478,9,Process Optimization,Yield Improvement,EMI Finance
+BST-18348,32811,-2329,10,Electrical & Automation,Sensor Calibration,Spot Order
+BST-18085,27668,9413,16,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-11489,73964,43172,9,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-10771,71697,2128,13,Mechanical Service,Frame Repair,Framework Agreement
+BST-11796,6013,-375,3,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-12504,63293,-8608,18,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-12621,18492,-4452,19,Process Optimization,Yield Improvement,Spot Order
+BST-16916,70104,-8715,8,Mechanical Service,Line Inspection,Annual Contract
+BST-19771,43792,16087,4,Mechanical Service,Oven Maintenance,Spot Order
+BST-11040,21201,1206,16,Mechanical Service,Frame Repair,Warranty
+BST-16304,38149,-1099,2,Process Optimization,Line Balancing,Annual Contract
+BST-16252,30937,5728,2,Process Optimization,Throughput Analysis,Spot Order
+BST-19763,5263,3406,13,Electrical & Automation,Sensor Calibration,Warranty
+BST-17668,5410,-1843,19,Mechanical Service,Drive Overhaul,EMI Finance
+BST-18669,37798,3944,18,Mechanical Service,Drive Overhaul,EMI Finance
+BST-14119,66588,7858,7,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-19064,60650,18091,6,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-10188,39169,8530,7,Process Optimization,Yield Improvement,Spot Order
+BST-11876,56559,9348,3,Process Optimization,Scrap Reduction,Warranty
+BST-18797,24719,15614,16,Process Optimization,OEE Consulting,Framework Agreement
+BST-14371,34681,1164,15,Mechanical Service,Line Inspection,Framework Agreement
+BST-15573,76844,28653,1,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-11827,31472,-9060,4,Process Optimization,Yield Improvement,Warranty
+BST-14808,53638,18026,10,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-17123,48674,12880,8,Process Optimization,Yield Improvement,Spot Order
+BST-12591,60134,23917,20,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-17433,62212,25342,7,Electrical & Automation,HMI Replacement,Spot Order
+BST-10053,11230,1970,17,Process Optimization,Throughput Analysis,Framework Agreement
+BST-14315,15207,-4383,18,Mechanical Service,Frame Repair,EMI Finance
+BST-18201,70841,-14178,11,Mechanical Service,Frame Repair,EMI Finance
+BST-12927,27422,10061,16,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-18317,7792,805,17,Process Optimization,Scrap Reduction,Warranty
+BST-11743,8067,1684,10,Electrical & Automation,HMI Replacement,Annual Contract
+BST-14889,895,354,19,Electrical & Automation,Control Panel Service,Annual Contract
+BST-18317,45658,15997,18,Mechanical Service,Oven Maintenance,Annual Contract
+BST-19977,4659,-293,6,Mechanical Service,Oven Maintenance,Spot Order
+BST-13258,49581,31873,13,Process Optimization,Scrap Reduction,Warranty
+BST-12504,11018,3666,18,Electrical & Automation,Drive Tuning,Spot Order
+BST-16126,16049,-2752,18,Process Optimization,Yield Improvement,Warranty
+BST-12646,29688,14393,1,Process Optimization,Line Balancing,Framework Agreement
+BST-18837,56091,10204,8,Electrical & Automation,HMI Replacement,Spot Order
+BST-18689,20832,-1548,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-10009,81099,33741,1,Process Optimization,Scrap Reduction,Spot Order
+BST-19813,13724,3347,15,Mechanical Service,Line Inspection,EMI Finance
+BST-15310,32577,12722,13,Process Optimization,OEE Consulting,Warranty
+BST-18005,28977,11717,2,Mechanical Service,Frame Repair,Spot Order
+BST-10319,31192,14528,19,Process Optimization,Yield Improvement,Framework Agreement
+BST-11832,42530,-4809,5,Process Optimization,Throughput Analysis,EMI Finance
+BST-15947,39887,-2985,18,Mechanical Service,Oven Maintenance,EMI Finance
+BST-15038,82550,27138,18,Process Optimization,Line Balancing,Warranty
+BST-13923,84820,27256,17,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-10949,54011,-10844,13,Process Optimization,Scrap Reduction,Spot Order
+BST-13946,32084,16020,10,Process Optimization,Scrap Reduction,Spot Order
+BST-19295,74213,4651,14,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-11290,51410,-5508,7,Process Optimization,Line Balancing,Framework Agreement
+BST-11403,59454,29556,3,Process Optimization,OEE Consulting,EMI Finance
+BST-17962,7255,-591,20,Process Optimization,Line Balancing,EMI Finance
+BST-11133,25162,11439,19,Mechanical Service,Line Inspection,EMI Finance
+BST-18727,27879,14482,11,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-12060,25406,15550,4,Mechanical Service,Roll Replacement,Warranty
+BST-12103,27305,1273,8,Mechanical Service,Frame Repair,EMI Finance
+BST-17787,50394,5858,12,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-19007,67715,36079,15,Electrical & Automation,Control Panel Service,Annual Contract
+BST-12705,42473,23968,12,Process Optimization,Scrap Reduction,Framework Agreement
+BST-14342,74231,38161,5,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-18645,77050,17655,14,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-19938,43736,-5247,19,Mechanical Service,Roll Replacement,Spot Order
+BST-16932,44745,-4146,16,Electrical & Automation,HMI Replacement,Warranty
+BST-13470,46660,-8433,18,Electrical & Automation,Sensor Calibration,Warranty
+BST-18835,84623,51386,17,Mechanical Service,Frame Repair,Annual Contract
+BST-13295,1336,83,8,Mechanical Service,Line Inspection,Annual Contract
+BST-15107,1698,-222,15,Process Optimization,Line Balancing,Framework Agreement
+BST-16537,84088,26635,20,Mechanical Service,Frame Repair,Warranty
+BST-16118,2561,-879,18,Process Optimization,Scrap Reduction,Warranty
+BST-17177,69891,26012,18,Mechanical Service,Line Inspection,Framework Agreement
+BST-18479,56936,25972,6,Mechanical Service,Frame Repair,Annual Contract
+BST-17397,20016,-2182,20,Mechanical Service,Frame Repair,EMI Finance
+BST-11982,35538,15812,3,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-14061,74555,-7961,8,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-13681,4652,-1193,13,Process Optimization,OEE Consulting,Warranty
+BST-11049,7855,2252,6,Process Optimization,Scrap Reduction,Annual Contract
+BST-15539,43920,9480,4,Electrical & Automation,Drive Tuning,EMI Finance
+BST-10344,28210,15551,19,Mechanical Service,Roll Replacement,Warranty
+BST-19638,10244,3425,9,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-19075,24008,13895,11,Process Optimization,OEE Consulting,Annual Contract
+BST-13770,19399,7803,13,Mechanical Service,Frame Repair,Annual Contract
+BST-19641,74419,-8150,13,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-13608,18843,8300,3,Electrical & Automation,Drive Tuning,EMI Finance
+BST-10117,7538,-1901,8,Process Optimization,Yield Improvement,Annual Contract
+BST-11163,80960,48969,13,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-10964,59554,8373,12,Mechanical Service,Drive Overhaul,EMI Finance
+BST-13750,24845,8191,13,Electrical & Automation,Drive Tuning,Annual Contract
+BST-11104,32802,11910,3,Process Optimization,Yield Improvement,Framework Agreement
+BST-10514,83586,-16359,13,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-15413,12495,-4308,10,Electrical & Automation,PLC Upgrade,Warranty
+BST-11160,13899,-3022,6,Electrical & Automation,Control Panel Service,Warranty
+BST-18423,73210,11892,4,Electrical & Automation,HMI Replacement,Annual Contract
+BST-13899,73142,-18792,20,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-14562,38753,2472,3,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-17953,68802,-12413,13,Mechanical Service,Frame Repair,Spot Order
+BST-13510,39969,-3261,5,Mechanical Service,Drive Overhaul,Annual Contract
+BST-18834,36670,2607,16,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12167,32821,12173,16,Electrical & Automation,Control Panel Service,EMI Finance
+BST-19355,60512,-14706,10,Process Optimization,Line Balancing,Annual Contract
+BST-19440,81789,2444,11,Electrical & Automation,Control Panel Service,Warranty
+BST-17744,78408,-16769,11,Electrical & Automation,Drive Tuning,EMI Finance
+BST-13981,63284,-2266,13,Process Optimization,Line Balancing,Framework Agreement
+BST-17749,75981,32821,11,Electrical & Automation,Drive Tuning,Warranty
+BST-16669,48343,-11414,19,Electrical & Automation,Drive Tuning,Spot Order
+BST-13119,24083,7988,18,Process Optimization,Throughput Analysis,Annual Contract
+BST-11545,27979,2474,10,Process Optimization,Scrap Reduction,Annual Contract
+BST-11588,18742,5310,8,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-17062,55960,24570,3,Process Optimization,Line Balancing,Warranty
+BST-15804,76815,3902,17,Process Optimization,Scrap Reduction,Warranty
+BST-16939,47624,16746,18,Process Optimization,OEE Consulting,EMI Finance
+BST-16735,14835,6215,12,Process Optimization,OEE Consulting,Spot Order
+BST-17651,6306,1344,13,Process Optimization,Throughput Analysis,Framework Agreement
+BST-10887,1882,-473,8,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-11612,73637,16974,19,Process Optimization,Throughput Analysis,Spot Order
+BST-10993,51766,5852,19,Electrical & Automation,Control Panel Service,EMI Finance
+BST-16596,3719,493,10,Mechanical Service,Drive Overhaul,Warranty
+BST-15559,19069,-31,11,Mechanical Service,Line Inspection,Warranty
+BST-11790,63798,-108,4,Mechanical Service,Frame Repair,Warranty
+BST-14073,42300,-11963,2,Process Optimization,Scrap Reduction,Annual Contract
+BST-13139,14834,4852,6,Mechanical Service,Drive Overhaul,Spot Order
+BST-13116,72839,-13829,18,Process Optimization,Line Balancing,Warranty
+BST-18786,53590,14992,6,Electrical & Automation,Sensor Calibration,Warranty
+BST-17350,80992,43176,15,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-12296,1083,384,7,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-16912,76174,-18910,18,Process Optimization,OEE Consulting,Spot Order
+BST-13006,26330,2831,9,Electrical & Automation,Control Panel Service,Warranty
+BST-14563,78746,3042,13,Process Optimization,Yield Improvement,EMI Finance
+BST-17579,46635,23108,20,Mechanical Service,Drive Overhaul,Spot Order
+BST-14092,81041,19463,5,Process Optimization,Yield Improvement,Framework Agreement
+BST-11235,40526,-9444,12,Mechanical Service,Roll Replacement,Spot Order
+BST-17260,55319,13632,19,Process Optimization,Scrap Reduction,Warranty
+BST-19016,64288,18354,6,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-11604,38358,-8043,11,Mechanical Service,Oven Maintenance,Warranty
+BST-10828,47559,28623,16,Process Optimization,OEE Consulting,Spot Order
+BST-18856,74107,11519,16,Mechanical Service,Oven Maintenance,Warranty
+BST-10241,54977,19799,15,Process Optimization,Scrap Reduction,Warranty
+BST-11528,74607,-23810,8,Mechanical Service,Line Inspection,Framework Agreement
+BST-13872,29970,5622,6,Mechanical Service,Drive Overhaul,Warranty
+BST-12724,72553,11666,19,Process Optimization,Scrap Reduction,Annual Contract
+BST-16658,48585,9330,2,Electrical & Automation,HMI Replacement,Warranty
+BST-17956,56225,-13920,8,Process Optimization,Line Balancing,Framework Agreement
+BST-17886,34947,-49,3,Mechanical Service,Oven Maintenance,Warranty
+BST-13502,28009,12903,19,Mechanical Service,Roll Replacement,Framework Agreement
+BST-16570,83438,6522,20,Process Optimization,Throughput Analysis,Spot Order
+BST-10960,8280,1822,18,Mechanical Service,Roll Replacement,Framework Agreement
+BST-12697,22569,-594,10,Process Optimization,Throughput Analysis,Framework Agreement
+BST-16209,67925,43165,4,Process Optimization,Yield Improvement,Spot Order
+BST-10035,36849,19052,5,Electrical & Automation,PLC Upgrade,Spot Order
+BST-16396,42717,20439,13,Mechanical Service,Roll Replacement,Warranty
+BST-14345,83390,-6778,14,Mechanical Service,Frame Repair,Warranty
+BST-17454,83550,37146,3,Electrical & Automation,PLC Upgrade,Warranty
+BST-14673,48874,5116,16,Process Optimization,Yield Improvement,Framework Agreement
+BST-16930,12708,4840,15,Process Optimization,OEE Consulting,Framework Agreement
+BST-19105,52629,-6955,14,Mechanical Service,Frame Repair,Spot Order
+BST-17973,42818,20481,11,Electrical & Automation,Control Panel Service,EMI Finance
+BST-12536,74705,37533,11,Process Optimization,Line Balancing,Annual Contract
+BST-13111,82574,35828,15,Mechanical Service,Line Inspection,Annual Contract
+BST-14861,58340,6214,14,Mechanical Service,Roll Replacement,Spot Order
+BST-13566,40066,-7653,9,Process Optimization,Line Balancing,Annual Contract
+BST-10958,33319,-8915,6,Process Optimization,Yield Improvement,Annual Contract
+BST-19489,31189,2471,3,Electrical & Automation,Control Panel Service,Annual Contract
+BST-18883,62996,-17138,19,Mechanical Service,Roll Replacement,Spot Order
+BST-10998,1717,-587,11,Process Optimization,Scrap Reduction,Annual Contract
+BST-15138,63113,-17619,13,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-10936,14026,-514,10,Process Optimization,OEE Consulting,Spot Order
+BST-10821,84592,54387,5,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-19571,1610,419,6,Process Optimization,Throughput Analysis,Warranty
+BST-17811,82823,32985,14,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-18238,28974,-7629,4,Process Optimization,Scrap Reduction,Spot Order
+BST-18701,50835,78,14,Mechanical Service,Frame Repair,Framework Agreement
+BST-12579,36802,10842,8,Mechanical Service,Roll Replacement,EMI Finance
+BST-10931,80138,-5215,1,Process Optimization,Throughput Analysis,Framework Agreement
+BST-18320,80051,12769,13,Mechanical Service,Frame Repair,Framework Agreement
+BST-11312,31870,4617,4,Process Optimization,OEE Consulting,Spot Order
+BST-13044,9807,1748,1,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-11122,51203,26155,19,Electrical & Automation,Sensor Calibration,Warranty
+BST-19749,23145,9552,3,Electrical & Automation,HMI Replacement,Annual Contract
+BST-11113,2307,-202,2,Process Optimization,OEE Consulting,Annual Contract
+BST-13853,38050,10599,17,Electrical & Automation,HMI Replacement,Warranty
+BST-16615,11303,3283,18,Electrical & Automation,Drive Tuning,EMI Finance
+BST-11964,11457,-459,17,Mechanical Service,Drive Overhaul,Spot Order
+BST-19333,43327,1764,3,Mechanical Service,Frame Repair,Framework Agreement
+BST-14033,31778,-9282,3,Process Optimization,Scrap Reduction,Warranty
+BST-19485,80754,20901,10,Mechanical Service,Oven Maintenance,Spot Order
+BST-19740,18484,6497,6,Mechanical Service,Line Inspection,Warranty
+BST-10651,68293,29569,9,Electrical & Automation,HMI Replacement,Spot Order
+BST-11343,35727,13681,4,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-16868,36149,6284,9,Electrical & Automation,Drive Tuning,EMI Finance
+BST-19562,65531,6893,12,Process Optimization,OEE Consulting,Annual Contract
+BST-19260,22373,395,9,Electrical & Automation,HMI Replacement,Annual Contract
+BST-18565,30437,11894,1,Process Optimization,OEE Consulting,Annual Contract
+BST-15183,6526,794,13,Mechanical Service,Roll Replacement,Spot Order
+BST-14272,72965,33061,14,Mechanical Service,Line Inspection,Spot Order
+BST-13346,55059,31155,11,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-15147,49364,-11383,2,Mechanical Service,Frame Repair,Spot Order
+BST-13910,6519,3937,3,Mechanical Service,Frame Repair,Warranty
+BST-14351,43399,-11440,15,Electrical & Automation,Control Panel Service,Annual Contract
+BST-16484,38719,8278,10,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-12144,48770,11787,16,Mechanical Service,Oven Maintenance,Spot Order
+BST-14915,32629,-6507,14,Process Optimization,Throughput Analysis,Annual Contract
+BST-17491,45906,13126,1,Mechanical Service,Frame Repair,Framework Agreement
+BST-15180,40806,-10040,17,Mechanical Service,Oven Maintenance,Spot Order
+BST-11188,8350,5198,5,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-10152,30839,16877,17,Mechanical Service,Line Inspection,Warranty
+BST-17508,60591,37842,3,Process Optimization,Yield Improvement,EMI Finance
+BST-19224,17999,5169,13,Mechanical Service,Frame Repair,Annual Contract
+BST-11638,8663,736,5,Process Optimization,Throughput Analysis,Spot Order
+BST-11200,41788,24071,13,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-18808,36145,-4206,7,Electrical & Automation,Drive Tuning,Spot Order
+BST-13492,20869,-5099,15,Process Optimization,OEE Consulting,Warranty
+BST-18288,16325,3035,7,Electrical & Automation,Drive Tuning,Warranty
+BST-14345,35235,17704,3,Electrical & Automation,Drive Tuning,Spot Order
+BST-12170,79576,-24642,11,Process Optimization,Yield Improvement,Spot Order
+BST-15718,47127,2179,2,Mechanical Service,Roll Replacement,Framework Agreement
+BST-11127,4573,2753,15,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-14002,33248,-8487,4,Process Optimization,Throughput Analysis,Spot Order
+BST-16054,8583,4123,8,Mechanical Service,Line Inspection,Spot Order
+BST-14669,49290,16575,3,Mechanical Service,Oven Maintenance,EMI Finance
+BST-12584,10328,-3389,3,Process Optimization,Yield Improvement,Spot Order
+BST-17179,17380,-4484,11,Process Optimization,Scrap Reduction,Annual Contract
+BST-18900,7137,-1299,19,Mechanical Service,Oven Maintenance,Warranty
+BST-14956,65528,-21002,14,Process Optimization,Scrap Reduction,Spot Order
+BST-18666,25030,-1877,15,Electrical & Automation,Sensor Calibration,Spot Order
+BST-10128,81656,21800,10,Mechanical Service,Frame Repair,Warranty
+BST-19086,63287,-18291,9,Electrical & Automation,HMI Replacement,Warranty
+BST-14905,26643,7797,17,Mechanical Service,Oven Maintenance,Spot Order
+BST-11697,3059,1955,12,Process Optimization,Throughput Analysis,Warranty
+BST-12200,45593,25654,17,Process Optimization,Scrap Reduction,Framework Agreement
+BST-14333,24068,-7796,20,Electrical & Automation,Control Panel Service,Spot Order
+BST-11891,8179,3751,16,Mechanical Service,Drive Overhaul,EMI Finance
+BST-11753,31008,19348,4,Electrical & Automation,HMI Replacement,Spot Order
+BST-19064,35434,6508,2,Process Optimization,Line Balancing,Spot Order
+BST-12546,47004,27507,6,Process Optimization,Scrap Reduction,Spot Order
+BST-14462,42181,19243,12,Mechanical Service,Frame Repair,EMI Finance
+BST-14616,74903,15999,19,Mechanical Service,Drive Overhaul,Spot Order
+BST-19909,41008,-7153,2,Electrical & Automation,HMI Replacement,Annual Contract
+BST-13450,79361,-10411,17,Mechanical Service,Roll Replacement,Warranty
+BST-15617,80995,-12030,5,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-13335,42913,-12463,5,Process Optimization,Line Balancing,EMI Finance
+BST-14325,15038,7466,12,Process Optimization,Line Balancing,Annual Contract
+BST-18280,77310,-19247,10,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-18004,57761,25521,16,Mechanical Service,Roll Replacement,Framework Agreement
+BST-14114,80940,35370,8,Mechanical Service,Frame Repair,EMI Finance
+BST-10832,40715,15634,10,Mechanical Service,Oven Maintenance,Spot Order
+BST-11512,75582,3144,19,Mechanical Service,Line Inspection,Annual Contract
+BST-16939,42209,24102,20,Mechanical Service,Frame Repair,Spot Order
+BST-14533,14145,8298,5,Process Optimization,Throughput Analysis,Framework Agreement
+BST-10722,31694,-101,11,Process Optimization,OEE Consulting,Spot Order
+BST-10058,84268,31961,11,Process Optimization,OEE Consulting,Warranty
+BST-15464,27983,-2811,3,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-12143,667,-201,15,Electrical & Automation,PLC Upgrade,Warranty
+BST-14291,65129,34633,12,Mechanical Service,Oven Maintenance,EMI Finance
+BST-12647,63347,27792,19,Electrical & Automation,PLC Upgrade,Spot Order
+BST-17239,10161,4564,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-19038,34726,20893,3,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-17007,21590,8247,18,Mechanical Service,Oven Maintenance,Annual Contract
+BST-19189,80931,43963,1,Electrical & Automation,HMI Replacement,Warranty
+BST-10158,80102,43235,6,Process Optimization,Line Balancing,Annual Contract
+BST-11832,27441,17134,14,Mechanical Service,Drive Overhaul,EMI Finance
+BST-11232,35268,10954,10,Process Optimization,Throughput Analysis,Spot Order
+BST-12442,51998,11531,16,Mechanical Service,Line Inspection,Spot Order
+BST-18938,1000,77,10,Mechanical Service,Drive Overhaul,EMI Finance
+BST-10590,13212,-4284,6,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-16049,15639,-651,13,Mechanical Service,Oven Maintenance,Warranty
+BST-19543,12445,3632,13,Electrical & Automation,Control Panel Service,Spot Order
+BST-19052,48918,-7994,2,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-12426,35024,-4334,9,Electrical & Automation,Drive Tuning,EMI Finance
+BST-17041,13175,-3482,12,Mechanical Service,Roll Replacement,EMI Finance
+BST-12088,30320,6173,13,Electrical & Automation,HMI Replacement,EMI Finance
+BST-10685,62736,13972,8,Electrical & Automation,HMI Replacement,Warranty
+BST-15050,52247,28880,2,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-15974,75405,24697,20,Process Optimization,Throughput Analysis,Spot Order
+BST-10653,23159,13873,6,Mechanical Service,Oven Maintenance,Spot Order
+BST-15862,6093,447,14,Mechanical Service,Roll Replacement,Spot Order
+BST-13441,78494,-7230,3,Process Optimization,Line Balancing,Annual Contract
+BST-14088,52582,10624,9,Electrical & Automation,HMI Replacement,EMI Finance
+BST-11684,82165,19520,14,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-15794,19924,4315,19,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-19173,13737,5985,18,Mechanical Service,Frame Repair,Framework Agreement
+BST-16658,50706,15454,19,Electrical & Automation,Control Panel Service,EMI Finance
+BST-12532,23070,-1720,5,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-13878,5583,255,11,Process Optimization,Scrap Reduction,Spot Order
+BST-12662,35703,19530,1,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-12900,37245,18356,4,Electrical & Automation,Control Panel Service,Spot Order
+BST-16755,58579,24839,11,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-10406,79795,23583,7,Process Optimization,Scrap Reduction,Warranty
+BST-12938,63999,26207,12,Mechanical Service,Oven Maintenance,Annual Contract
+BST-15442,9100,-353,17,Process Optimization,Line Balancing,Warranty
+BST-16745,75037,-24090,7,Mechanical Service,Frame Repair,Spot Order
+BST-14065,4834,514,12,Mechanical Service,Roll Replacement,Spot Order
+BST-14371,61346,9516,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-12608,64566,15756,6,Mechanical Service,Drive Overhaul,Warranty
+BST-11771,46343,-266,9,Process Optimization,Throughput Analysis,Annual Contract
+BST-16267,51167,-15367,19,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10634,27596,-2232,14,Mechanical Service,Roll Replacement,EMI Finance
+BST-17711,62640,35173,6,Mechanical Service,Line Inspection,EMI Finance
+BST-13644,33581,8675,10,Mechanical Service,Roll Replacement,Framework Agreement
+BST-13269,46206,5036,7,Electrical & Automation,Drive Tuning,Warranty
+BST-17541,82237,3877,4,Electrical & Automation,HMI Replacement,Annual Contract
+BST-15728,74091,22030,20,Process Optimization,Yield Improvement,Framework Agreement
+BST-15000,63642,-18211,9,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-13728,39663,-6411,17,Electrical & Automation,Control Panel Service,Spot Order
+BST-13652,53465,16602,5,Mechanical Service,Frame Repair,Annual Contract
+BST-10387,39245,-3554,14,Process Optimization,Scrap Reduction,Warranty
+BST-13164,76918,27541,19,Electrical & Automation,PLC Upgrade,Spot Order
+BST-16528,70575,20347,16,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-15378,22780,11176,18,Process Optimization,Yield Improvement,Spot Order
+BST-14564,62206,-13813,9,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-11137,12204,-1559,8,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-14573,49217,-4402,10,Electrical & Automation,Control Panel Service,Warranty
+BST-15753,7535,3891,19,Mechanical Service,Oven Maintenance,EMI Finance
+BST-18346,62394,33656,17,Process Optimization,OEE Consulting,Annual Contract
+BST-16548,69946,-3612,2,Process Optimization,Scrap Reduction,Spot Order
+BST-18785,45414,2688,19,Mechanical Service,Roll Replacement,Warranty
+BST-15425,24139,10354,16,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-10452,41579,11829,1,Process Optimization,Line Balancing,Warranty
+BST-11889,22599,5113,6,Electrical & Automation,Sensor Calibration,Warranty
+BST-14279,81041,6784,14,Mechanical Service,Roll Replacement,Warranty
+BST-12925,50742,-17522,18,Electrical & Automation,Drive Tuning,Spot Order
+BST-19512,2345,1271,17,Process Optimization,Yield Improvement,Spot Order
+BST-14349,82641,31701,8,Mechanical Service,Line Inspection,Framework Agreement
+BST-10626,13962,468,19,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-11776,6492,-336,10,Mechanical Service,Line Inspection,Warranty
+BST-19774,78667,13697,14,Process Optimization,Throughput Analysis,Spot Order
+BST-17119,47587,19040,6,Electrical & Automation,Drive Tuning,Warranty
+BST-15663,29902,11278,5,Mechanical Service,Roll Replacement,Spot Order
+BST-15139,77792,12029,4,Process Optimization,OEE Consulting,Framework Agreement
+BST-17149,49677,26157,9,Process Optimization,OEE Consulting,EMI Finance
+BST-19932,78346,50508,4,Process Optimization,OEE Consulting,Annual Contract
+BST-18379,55127,5199,4,Mechanical Service,Line Inspection,EMI Finance
+BST-11894,20570,-2972,1,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-16311,68697,-5497,20,Electrical & Automation,PLC Upgrade,Spot Order
+BST-19446,67554,24911,4,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-13114,65739,-9949,7,Mechanical Service,Line Inspection,Framework Agreement
+BST-14173,47413,16757,10,Process Optimization,Line Balancing,Spot Order
+BST-10727,65558,36735,16,Mechanical Service,Frame Repair,Framework Agreement
+BST-17144,2171,698,4,Mechanical Service,Line Inspection,EMI Finance
+BST-10027,20048,12017,17,Process Optimization,Scrap Reduction,Annual Contract
+BST-18518,34040,10019,15,Process Optimization,OEE Consulting,Framework Agreement
+BST-18821,7064,-1767,6,Electrical & Automation,Drive Tuning,Annual Contract
+BST-13228,41487,3152,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-15967,18639,5840,6,Mechanical Service,Line Inspection,Framework Agreement
+BST-17066,82001,-6698,3,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-11146,15420,782,15,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-15409,55778,16669,6,Electrical & Automation,Drive Tuning,Annual Contract
+BST-15143,21392,-5268,19,Mechanical Service,Line Inspection,Warranty
+BST-12041,24258,6339,12,Process Optimization,Scrap Reduction,EMI Finance
+BST-14920,63818,36401,4,Mechanical Service,Roll Replacement,Warranty
+BST-18308,8801,-777,11,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-15067,76082,28437,8,Process Optimization,Throughput Analysis,Framework Agreement
+BST-16691,81533,-20771,8,Process Optimization,Throughput Analysis,Warranty
+BST-15344,19984,9772,18,Electrical & Automation,Drive Tuning,EMI Finance
+BST-16592,84831,49572,17,Mechanical Service,Line Inspection,Warranty
+BST-14844,10312,4139,11,Electrical & Automation,Sensor Calibration,Spot Order
+BST-19083,7099,1114,18,Electrical & Automation,Control Panel Service,Warranty
+BST-12085,10832,1181,19,Electrical & Automation,Sensor Calibration,Warranty
+BST-13143,59098,-2005,16,Mechanical Service,Oven Maintenance,Annual Contract
+BST-16888,54546,-17136,18,Mechanical Service,Oven Maintenance,Annual Contract
+BST-16211,81642,23475,17,Mechanical Service,Frame Repair,EMI Finance
+BST-12851,45176,602,2,Mechanical Service,Oven Maintenance,Spot Order
+BST-19324,73920,30855,20,Electrical & Automation,Control Panel Service,Warranty
+BST-14930,59814,-14114,8,Process Optimization,Yield Improvement,Annual Contract
+BST-16653,83555,51339,10,Electrical & Automation,Control Panel Service,EMI Finance
+BST-18977,14435,-4391,6,Process Optimization,Yield Improvement,Warranty
+BST-10006,14519,-1389,7,Mechanical Service,Oven Maintenance,Spot Order
+BST-14978,28757,3078,7,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-14700,6594,3802,19,Mechanical Service,Oven Maintenance,Annual Contract
+BST-13443,77742,47126,5,Electrical & Automation,Drive Tuning,Warranty
+BST-17043,6866,1395,14,Mechanical Service,Frame Repair,EMI Finance
+BST-19502,23726,8109,6,Electrical & Automation,HMI Replacement,Spot Order
+BST-19939,79214,20291,11,Mechanical Service,Oven Maintenance,EMI Finance
+BST-15279,80322,45455,8,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-17618,39057,4016,5,Electrical & Automation,Control Panel Service,Spot Order
+BST-17238,67647,-3455,18,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-17244,83413,-11065,7,Process Optimization,Throughput Analysis,EMI Finance
+BST-13501,45758,26136,5,Process Optimization,Yield Improvement,Spot Order
+BST-18375,83976,-2319,4,Process Optimization,Throughput Analysis,Framework Agreement
+BST-17752,76889,16964,14,Process Optimization,Scrap Reduction,EMI Finance
+BST-12780,2173,375,1,Electrical & Automation,Drive Tuning,Warranty
+BST-11389,7919,-1188,6,Mechanical Service,Line Inspection,Framework Agreement
+BST-14649,19692,9636,10,Process Optimization,Yield Improvement,Spot Order
+BST-18445,47513,22047,4,Process Optimization,OEE Consulting,EMI Finance
+BST-15491,29900,11733,18,Process Optimization,Throughput Analysis,Warranty
+BST-11530,38201,13100,2,Mechanical Service,Frame Repair,Warranty
+BST-13848,41480,25544,2,Electrical & Automation,Drive Tuning,Annual Contract
+BST-15085,27119,7337,15,Process Optimization,Yield Improvement,Spot Order
+BST-13680,77620,15261,20,Process Optimization,Yield Improvement,Spot Order
+BST-13262,39058,3859,3,Process Optimization,Line Balancing,Spot Order
+BST-12414,16143,439,14,Mechanical Service,Frame Repair,Framework Agreement
+BST-10400,17548,-3317,9,Process Optimization,Yield Improvement,Annual Contract
+BST-10757,20790,-6446,11,Electrical & Automation,Drive Tuning,EMI Finance
+BST-14011,39972,5618,19,Mechanical Service,Frame Repair,EMI Finance
+BST-17784,42162,7395,6,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-11193,21389,1410,18,Mechanical Service,Frame Repair,Warranty
+BST-17461,29492,15730,11,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-16790,29132,17488,20,Electrical & Automation,Control Panel Service,EMI Finance
+BST-19431,1653,-388,12,Electrical & Automation,HMI Replacement,Warranty
+BST-13185,81912,-8696,2,Mechanical Service,Frame Repair,Framework Agreement
+BST-16291,51077,-4771,10,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-18099,67911,30751,15,Process Optimization,Yield Improvement,Warranty
+BST-16547,25732,-763,3,Mechanical Service,Drive Overhaul,Annual Contract
+BST-13997,70388,-24119,3,Mechanical Service,Frame Repair,Spot Order
+BST-12417,56101,27246,7,Process Optimization,Line Balancing,EMI Finance
+BST-10090,9952,3949,5,Process Optimization,Scrap Reduction,Annual Contract
+BST-11746,5465,-1434,2,Electrical & Automation,Control Panel Service,Spot Order
+BST-16965,9732,2189,8,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-13585,59629,16709,14,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-12881,16006,2958,20,Mechanical Service,Oven Maintenance,Annual Contract
+BST-18486,6465,2268,3,Process Optimization,Throughput Analysis,Framework Agreement
+BST-17611,38489,16815,10,Process Optimization,OEE Consulting,EMI Finance
+BST-10822,57867,1817,1,Mechanical Service,Drive Overhaul,Warranty
+BST-19132,29318,-6262,13,Mechanical Service,Frame Repair,EMI Finance
+BST-14082,39566,12949,12,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-11988,19030,-4315,1,Process Optimization,Throughput Analysis,EMI Finance
+BST-17478,70905,14005,3,Process Optimization,Scrap Reduction,Framework Agreement
+BST-12184,28252,1770,17,Mechanical Service,Drive Overhaul,Spot Order
+BST-17612,29439,7856,9,Mechanical Service,Roll Replacement,Spot Order
+BST-18702,74856,37596,18,Mechanical Service,Roll Replacement,Warranty
+BST-19157,10087,-598,3,Process Optimization,Throughput Analysis,Framework Agreement
+BST-19755,76599,10508,11,Mechanical Service,Roll Replacement,Framework Agreement
+BST-15198,13613,-882,3,Mechanical Service,Roll Replacement,Spot Order
+BST-17251,59567,-1289,10,Electrical & Automation,Drive Tuning,EMI Finance
+BST-18270,74799,1084,11,Mechanical Service,Frame Repair,Warranty
+BST-16991,41553,-4314,8,Mechanical Service,Line Inspection,Warranty
+BST-18976,18103,5966,11,Electrical & Automation,Control Panel Service,Warranty
+BST-17305,47520,20184,16,Electrical & Automation,Drive Tuning,EMI Finance
+BST-12607,80011,-21445,9,Mechanical Service,Roll Replacement,Spot Order
+BST-17777,35002,13424,3,Process Optimization,Line Balancing,Annual Contract
+BST-17373,83288,-26552,19,Mechanical Service,Frame Repair,EMI Finance
+BST-14246,28386,15791,18,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-14050,62379,18957,5,Process Optimization,Throughput Analysis,Framework Agreement
+BST-14543,77780,29807,10,Electrical & Automation,Sensor Calibration,Spot Order
+BST-18540,67400,-17486,12,Electrical & Automation,HMI Replacement,EMI Finance
+BST-17939,80982,27061,17,Mechanical Service,Roll Replacement,Spot Order
+BST-13919,23980,5188,19,Electrical & Automation,Sensor Calibration,Spot Order
+BST-14499,47528,-14713,16,Process Optimization,Scrap Reduction,Spot Order
+BST-17206,48922,-5674,7,Mechanical Service,Drive Overhaul,EMI Finance
+BST-11269,62061,35244,2,Electrical & Automation,Drive Tuning,Annual Contract
+BST-14681,14029,4962,17,Process Optimization,Yield Improvement,Framework Agreement
+BST-13841,76342,14837,6,Process Optimization,Yield Improvement,Warranty
+BST-14451,48380,11498,3,Process Optimization,Scrap Reduction,EMI Finance
+BST-15502,29715,4943,12,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-15238,79695,-27367,5,Electrical & Automation,Drive Tuning,Warranty
+BST-18849,10604,1744,9,Mechanical Service,Roll Replacement,Spot Order
+BST-11320,21125,258,4,Mechanical Service,Roll Replacement,Spot Order
+BST-12267,15355,2019,16,Electrical & Automation,Control Panel Service,Warranty
+BST-12471,21634,6430,14,Mechanical Service,Frame Repair,Annual Contract
+BST-13788,17262,3857,6,Mechanical Service,Line Inspection,Spot Order
+BST-16275,5636,3047,5,Process Optimization,Throughput Analysis,Annual Contract
+BST-12503,24097,4015,13,Mechanical Service,Drive Overhaul,EMI Finance
+BST-13505,37652,22487,7,Process Optimization,OEE Consulting,Warranty
+BST-11052,63633,-11417,14,Process Optimization,Scrap Reduction,EMI Finance
+BST-16797,24339,6649,17,Mechanical Service,Frame Repair,Framework Agreement
+BST-16678,59937,14776,3,Mechanical Service,Drive Overhaul,Spot Order
+BST-15421,17829,-4304,7,Electrical & Automation,Drive Tuning,EMI Finance
+BST-18890,20103,5136,6,Process Optimization,Scrap Reduction,Warranty
+BST-17633,5616,2963,18,Process Optimization,Throughput Analysis,EMI Finance
+BST-16812,63708,19710,20,Mechanical Service,Line Inspection,EMI Finance
+BST-11020,68925,4871,2,Mechanical Service,Oven Maintenance,EMI Finance
+BST-13388,63692,27996,13,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-16883,13307,1004,9,Process Optimization,Throughput Analysis,Warranty
+BST-16381,37628,9342,18,Mechanical Service,Line Inspection,Warranty
+BST-19569,1216,436,1,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-10320,68626,-23525,7,Process Optimization,OEE Consulting,Framework Agreement
+BST-19432,14470,-2824,19,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-16232,56017,12025,20,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-17814,27198,1719,18,Process Optimization,Scrap Reduction,Warranty
+BST-10096,73781,15118,9,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-15763,52683,20324,4,Process Optimization,Yield Improvement,Spot Order
+BST-14892,13643,-1849,13,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-16389,7322,-1385,1,Process Optimization,Throughput Analysis,Annual Contract
+BST-16865,79175,6759,3,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-18818,10990,2846,13,Mechanical Service,Drive Overhaul,Warranty
+BST-18947,38048,13758,20,Process Optimization,Throughput Analysis,Annual Contract
+BST-19883,58036,-19691,17,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-13613,79079,12695,8,Mechanical Service,Line Inspection,EMI Finance
+BST-17999,47651,-5277,1,Mechanical Service,Line Inspection,Spot Order
+BST-13595,52854,165,13,Mechanical Service,Drive Overhaul,Warranty
+BST-14471,68361,-22875,3,Process Optimization,Line Balancing,Annual Contract
+BST-17140,73784,41688,12,Process Optimization,Yield Improvement,Framework Agreement
+BST-17956,79977,49030,15,Electrical & Automation,Sensor Calibration,Warranty
+BST-10475,34723,-6075,17,Process Optimization,OEE Consulting,Annual Contract
+BST-16371,66451,-3704,4,Process Optimization,OEE Consulting,EMI Finance
+BST-15507,75852,-7574,15,Electrical & Automation,HMI Replacement,Warranty
+BST-16624,32386,13196,15,Process Optimization,Scrap Reduction,Warranty
+BST-12704,63672,-14882,3,Process Optimization,OEE Consulting,Warranty
+BST-17657,30637,13791,14,Process Optimization,Line Balancing,Framework Agreement
+BST-12091,1774,622,9,Process Optimization,Throughput Analysis,Spot Order
+BST-18751,52788,17087,11,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-10441,62963,-2274,7,Process Optimization,Line Balancing,EMI Finance
+BST-16455,25425,3788,7,Electrical & Automation,Sensor Calibration,Spot Order
+BST-19697,35287,-5053,7,Process Optimization,Line Balancing,Spot Order
+BST-19246,20946,8984,4,Process Optimization,Yield Improvement,Annual Contract
+BST-10444,80955,-27798,18,Process Optimization,Scrap Reduction,Annual Contract
+BST-11375,81852,-2830,19,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-17022,67495,-4706,8,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-12223,69409,31183,16,Mechanical Service,Line Inspection,EMI Finance
+BST-17564,46019,2011,6,Mechanical Service,Frame Repair,Warranty
+BST-12977,60802,-2088,1,Mechanical Service,Frame Repair,Annual Contract
+BST-10823,50232,11604,11,Process Optimization,Line Balancing,Framework Agreement
+BST-14262,25030,4970,8,Process Optimization,Yield Improvement,Framework Agreement
+BST-16211,45470,724,16,Electrical & Automation,HMI Replacement,Warranty
+BST-15363,49299,743,13,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-13467,75395,-16501,19,Electrical & Automation,Sensor Calibration,Spot Order
+BST-17449,31407,6449,13,Mechanical Service,Drive Overhaul,Spot Order
+BST-15355,62495,28476,6,Mechanical Service,Roll Replacement,Warranty
+BST-15529,83160,13888,11,Electrical & Automation,Sensor Calibration,Warranty
+BST-16211,74180,37720,2,Electrical & Automation,Control Panel Service,Warranty
+BST-14558,8369,-1125,9,Mechanical Service,Roll Replacement,Warranty
+BST-16906,59463,23463,9,Process Optimization,OEE Consulting,Framework Agreement
+BST-14133,73571,42806,9,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-11341,16390,17,20,Mechanical Service,Oven Maintenance,Spot Order
+BST-17705,71074,-12470,10,Process Optimization,Throughput Analysis,Framework Agreement
+BST-10317,64396,27351,15,Electrical & Automation,HMI Replacement,Annual Contract
+BST-18837,38055,4328,5,Electrical & Automation,HMI Replacement,Spot Order
+BST-10853,55788,15691,19,Process Optimization,Yield Improvement,Warranty
+BST-15733,21733,-138,11,Mechanical Service,Line Inspection,Framework Agreement
+BST-13673,35558,9080,13,Process Optimization,Yield Improvement,Framework Agreement
+BST-11124,77428,13235,15,Electrical & Automation,Control Panel Service,Warranty
+BST-10659,3527,-793,8,Mechanical Service,Roll Replacement,Framework Agreement
+BST-10508,28100,-5144,4,Process Optimization,OEE Consulting,Annual Contract
+BST-14051,72384,-21438,13,Mechanical Service,Oven Maintenance,EMI Finance
+BST-13266,34900,9356,3,Mechanical Service,Line Inspection,Warranty
+BST-10333,32926,12761,15,Electrical & Automation,Sensor Calibration,Spot Order
+BST-12496,22861,-7348,12,Mechanical Service,Frame Repair,Framework Agreement
+BST-13908,71355,41732,18,Electrical & Automation,Drive Tuning,Warranty
+BST-12068,23704,5708,15,Mechanical Service,Frame Repair,EMI Finance
+BST-17758,84358,24424,10,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-11874,30270,13764,15,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-19240,34553,-6713,1,Electrical & Automation,Drive Tuning,Annual Contract
+BST-13571,45573,-2881,18,Process Optimization,Line Balancing,Annual Contract
+BST-17619,63030,-3176,14,Process Optimization,Scrap Reduction,Framework Agreement
+BST-14198,1446,286,7,Process Optimization,Line Balancing,Warranty
+BST-16043,52240,-5229,13,Process Optimization,Scrap Reduction,Warranty
+BST-12749,10882,786,8,Mechanical Service,Drive Overhaul,EMI Finance
+BST-19926,37813,11285,18,Process Optimization,Yield Improvement,Framework Agreement
+BST-19949,9473,-1587,10,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-11876,81467,8372,20,Process Optimization,Scrap Reduction,Warranty
+BST-12683,3042,-601,18,Mechanical Service,Drive Overhaul,Annual Contract
+BST-15096,37477,-3028,15,Mechanical Service,Line Inspection,Annual Contract
+BST-11771,20250,-6789,7,Mechanical Service,Line Inspection,Framework Agreement
+BST-19481,65825,42652,15,Electrical & Automation,Control Panel Service,Annual Contract
+BST-10420,19648,-5775,13,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-15111,24303,-3835,9,Process Optimization,Scrap Reduction,Warranty
+BST-19433,33131,1152,15,Mechanical Service,Line Inspection,Spot Order
+BST-16149,26606,2948,4,Process Optimization,OEE Consulting,EMI Finance
+BST-16498,62474,2444,10,Process Optimization,Line Balancing,Framework Agreement
+BST-13249,72534,12397,9,Mechanical Service,Line Inspection,Warranty
+BST-11245,26547,276,2,Process Optimization,Yield Improvement,Spot Order
+BST-19700,83456,7023,1,Mechanical Service,Roll Replacement,Spot Order
+BST-13978,16182,741,8,Electrical & Automation,HMI Replacement,Annual Contract
+BST-11669,62794,21249,5,Mechanical Service,Frame Repair,Framework Agreement
+BST-14941,21169,3173,20,Mechanical Service,Roll Replacement,Framework Agreement
+BST-19837,8334,45,5,Process Optimization,OEE Consulting,EMI Finance
+BST-11983,64442,-7560,18,Mechanical Service,Roll Replacement,Framework Agreement
+BST-19272,3298,1118,12,Electrical & Automation,Sensor Calibration,Spot Order
+BST-10672,64109,22862,18,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-15688,25374,5498,18,Process Optimization,Scrap Reduction,Framework Agreement
+BST-18728,36587,18939,20,Electrical & Automation,Drive Tuning,EMI Finance
+BST-17018,70117,-13671,10,Mechanical Service,Line Inspection,Framework Agreement
+BST-16071,60017,-20962,17,Process Optimization,Yield Improvement,Warranty
+BST-11129,2953,796,12,Process Optimization,Line Balancing,EMI Finance
+BST-18289,8802,2713,18,Mechanical Service,Drive Overhaul,Warranty
+BST-15590,65714,27319,5,Mechanical Service,Frame Repair,EMI Finance
+BST-10207,54213,15770,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-16882,6237,3026,5,Process Optimization,OEE Consulting,Spot Order
+BST-18031,14531,1967,4,Mechanical Service,Roll Replacement,Annual Contract
+BST-11729,64713,11377,19,Process Optimization,Scrap Reduction,Framework Agreement
+BST-17102,29430,7532,3,Mechanical Service,Drive Overhaul,Annual Contract
+BST-15934,10980,1296,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-17532,48874,21712,2,Process Optimization,Scrap Reduction,EMI Finance
+BST-12506,5828,2239,10,Electrical & Automation,HMI Replacement,Annual Contract
+BST-17135,13229,-3291,8,Mechanical Service,Frame Repair,EMI Finance
+BST-12885,25812,4547,8,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-18548,73693,29417,14,Process Optimization,Line Balancing,Annual Contract
+BST-14425,47418,15386,14,Process Optimization,Throughput Analysis,Annual Contract
+BST-18817,72585,3742,11,Mechanical Service,Roll Replacement,Spot Order
+BST-17921,58566,34174,11,Process Optimization,Throughput Analysis,EMI Finance
+BST-17616,54546,22592,14,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-17136,74312,14537,13,Process Optimization,Line Balancing,EMI Finance
+BST-19707,47687,29167,15,Process Optimization,Yield Improvement,Warranty
+BST-14397,37787,9286,17,Mechanical Service,Line Inspection,Spot Order
+BST-15280,39865,25290,7,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-14022,73069,11783,19,Mechanical Service,Drive Overhaul,EMI Finance
+BST-11419,5446,601,5,Mechanical Service,Line Inspection,Spot Order
+BST-14569,76804,-7691,9,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-17385,52902,11588,7,Mechanical Service,Frame Repair,Annual Contract
+BST-13995,63746,-11289,19,Process Optimization,Yield Improvement,Annual Contract
+BST-17613,5398,2055,19,Process Optimization,Yield Improvement,Warranty
+BST-19336,44329,-91,14,Mechanical Service,Line Inspection,Warranty
+BST-19999,79444,45970,13,Mechanical Service,Roll Replacement,Annual Contract
+BST-16209,5897,-180,19,Electrical & Automation,HMI Replacement,Spot Order
+BST-15511,29440,-5793,13,Electrical & Automation,HMI Replacement,Warranty
+BST-10470,66655,-17324,14,Process Optimization,Throughput Analysis,Framework Agreement
+BST-18098,17826,-246,16,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-15325,72347,3558,3,Process Optimization,OEE Consulting,Warranty
+BST-12979,17588,7246,16,Process Optimization,Scrap Reduction,EMI Finance
+BST-17988,52315,15812,7,Mechanical Service,Oven Maintenance,EMI Finance
+BST-13475,32775,-3529,9,Process Optimization,Throughput Analysis,Warranty
+BST-15813,12243,-2907,14,Electrical & Automation,HMI Replacement,Warranty
+BST-14232,25467,-745,20,Electrical & Automation,Control Panel Service,Annual Contract
+BST-15576,46338,12336,15,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-14581,6382,3664,8,Mechanical Service,Oven Maintenance,Spot Order
+BST-19767,20946,8540,3,Process Optimization,Yield Improvement,Annual Contract
+BST-14526,32356,19379,5,Process Optimization,OEE Consulting,Framework Agreement
+BST-19106,15085,-677,16,Mechanical Service,Drive Overhaul,Annual Contract
+BST-10166,71017,-9809,18,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-18464,63811,17423,5,Electrical & Automation,HMI Replacement,Annual Contract
+BST-13130,69548,-21317,6,Electrical & Automation,HMI Replacement,Annual Contract
+BST-11402,81497,-6415,15,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-13954,36061,11286,12,Mechanical Service,Oven Maintenance,Annual Contract
+BST-16658,51162,-6079,13,Mechanical Service,Drive Overhaul,EMI Finance
+BST-18004,41847,5635,20,Process Optimization,OEE Consulting,EMI Finance
+BST-19096,26566,4002,15,Mechanical Service,Roll Replacement,EMI Finance
+BST-13937,5710,-585,17,Process Optimization,OEE Consulting,Framework Agreement
+BST-17800,52063,20533,1,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-18041,47080,12957,8,Process Optimization,Yield Improvement,EMI Finance
+BST-17342,82523,-7618,13,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-10282,30067,-5962,13,Process Optimization,Yield Improvement,Spot Order
+BST-11524,68751,41979,20,Mechanical Service,Oven Maintenance,Spot Order
+BST-14820,75590,-14910,10,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-13630,71571,-15618,5,Electrical & Automation,Drive Tuning,EMI Finance
+BST-16625,18602,-762,17,Process Optimization,Line Balancing,Spot Order
+BST-13986,74535,42269,11,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-15016,16017,-2656,5,Process Optimization,Throughput Analysis,Annual Contract
+BST-19528,54403,-2538,9,Electrical & Automation,Drive Tuning,Spot Order
+BST-16046,17741,-2931,20,Mechanical Service,Line Inspection,EMI Finance
+BST-17753,74823,19630,20,Electrical & Automation,HMI Replacement,Spot Order
+BST-19068,47589,-12873,16,Mechanical Service,Line Inspection,Spot Order
+BST-18698,61941,22423,12,Process Optimization,Throughput Analysis,Spot Order
+BST-15632,62608,-13303,7,Electrical & Automation,Drive Tuning,Spot Order
+BST-16971,2467,1419,14,Mechanical Service,Oven Maintenance,Spot Order
+BST-19017,27312,-7752,15,Process Optimization,Line Balancing,EMI Finance
+BST-15419,60471,32508,14,Electrical & Automation,Control Panel Service,Warranty
+BST-15764,50356,18641,13,Mechanical Service,Frame Repair,EMI Finance
+BST-17434,78331,14582,2,Process Optimization,Throughput Analysis,EMI Finance
+BST-14438,60386,28804,2,Mechanical Service,Oven Maintenance,Spot Order
+BST-15023,52353,33182,2,Process Optimization,Throughput Analysis,EMI Finance
+BST-14118,83160,50943,7,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-13777,40418,17124,10,Electrical & Automation,Drive Tuning,Warranty
+BST-11976,39090,10285,2,Mechanical Service,Oven Maintenance,EMI Finance
+BST-13155,59704,-15496,17,Mechanical Service,Oven Maintenance,Annual Contract
+BST-15169,72118,-15483,14,Mechanical Service,Frame Repair,Framework Agreement
+BST-11958,23945,2482,7,Electrical & Automation,PLC Upgrade,Warranty
+BST-18779,42977,14685,6,Mechanical Service,Drive Overhaul,Annual Contract
+BST-13033,59403,16874,3,Mechanical Service,Line Inspection,EMI Finance
+BST-13138,67565,17706,6,Process Optimization,Scrap Reduction,Warranty
+BST-13545,6254,2615,11,Process Optimization,Scrap Reduction,EMI Finance
+BST-17933,21749,11283,6,Process Optimization,Line Balancing,Annual Contract
+BST-14530,41069,15612,15,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-19659,15908,8726,7,Process Optimization,Line Balancing,Annual Contract
+BST-18595,2100,228,16,Process Optimization,Yield Improvement,EMI Finance
+BST-19777,65179,-7307,19,Mechanical Service,Frame Repair,Warranty
+BST-14636,58417,-15807,20,Electrical & Automation,Drive Tuning,Annual Contract
+BST-11647,36952,9968,18,Mechanical Service,Frame Repair,Spot Order
+BST-13180,19932,-5878,12,Mechanical Service,Roll Replacement,Annual Contract
+BST-14853,76271,37221,10,Mechanical Service,Line Inspection,Framework Agreement
+BST-13727,14772,989,6,Mechanical Service,Line Inspection,Spot Order
+BST-15912,80596,25059,20,Process Optimization,Yield Improvement,EMI Finance
+BST-12939,60182,24032,12,Process Optimization,Line Balancing,Annual Contract
+BST-14952,42812,794,13,Mechanical Service,Drive Overhaul,Annual Contract
+BST-10231,9009,-515,5,Electrical & Automation,HMI Replacement,Annual Contract
+BST-18751,43650,7728,17,Process Optimization,Yield Improvement,Spot Order
+BST-12073,80723,-23556,19,Process Optimization,Line Balancing,EMI Finance
+BST-14494,79769,46576,10,Mechanical Service,Oven Maintenance,Warranty
+BST-10745,34534,6056,20,Process Optimization,Yield Improvement,Framework Agreement
+BST-10893,74245,10869,16,Mechanical Service,Frame Repair,Warranty
+BST-19066,31003,11117,7,Mechanical Service,Frame Repair,Annual Contract
+BST-14786,61433,16922,4,Mechanical Service,Line Inspection,Spot Order
+BST-12068,54769,-16677,12,Process Optimization,Scrap Reduction,EMI Finance
+BST-18042,1980,575,10,Process Optimization,Line Balancing,Framework Agreement
+BST-11680,39858,6245,11,Mechanical Service,Drive Overhaul,Annual Contract
+BST-10200,45242,2083,19,Mechanical Service,Drive Overhaul,EMI Finance
+BST-19405,25930,-505,11,Mechanical Service,Roll Replacement,Warranty
+BST-14658,18293,2405,15,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-17690,54757,31638,2,Electrical & Automation,Drive Tuning,EMI Finance
+BST-17843,41853,8587,1,Electrical & Automation,HMI Replacement,Spot Order
+BST-17216,46846,-13294,5,Process Optimization,Yield Improvement,Framework Agreement
+BST-15582,49683,13737,6,Mechanical Service,Drive Overhaul,EMI Finance
+BST-13020,25060,6144,10,Process Optimization,Scrap Reduction,Framework Agreement
+BST-10841,36085,2304,16,Process Optimization,OEE Consulting,Spot Order
+BST-14136,40166,-5376,10,Electrical & Automation,Drive Tuning,Spot Order
+BST-17827,5401,2310,3,Mechanical Service,Drive Overhaul,Warranty
+BST-11869,63763,35385,5,Process Optimization,OEE Consulting,Spot Order
+BST-11070,69132,-2740,11,Electrical & Automation,Drive Tuning,Spot Order
+BST-16565,17895,-2591,2,Mechanical Service,Frame Repair,Warranty
+BST-18056,15682,-5424,2,Electrical & Automation,HMI Replacement,EMI Finance
+BST-11213,61694,33264,4,Mechanical Service,Drive Overhaul,EMI Finance
+BST-19453,3446,784,10,Process Optimization,Yield Improvement,Spot Order
+BST-10878,25737,-1632,18,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-12485,36237,-7272,9,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-12444,73851,12116,7,Mechanical Service,Frame Repair,EMI Finance
+BST-19221,42244,-3335,10,Electrical & Automation,HMI Replacement,EMI Finance
+BST-14978,9837,-379,11,Mechanical Service,Roll Replacement,EMI Finance
+BST-11395,17549,-5633,2,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-14066,11787,901,6,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-11940,81281,457,11,Process Optimization,Scrap Reduction,Spot Order
+BST-19143,10795,6732,15,Process Optimization,Throughput Analysis,EMI Finance
+BST-16818,61877,-15638,10,Mechanical Service,Line Inspection,Warranty
+BST-19933,29833,-6153,20,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-19766,24532,8576,11,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-13697,4466,-1271,4,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-18561,22887,-1550,12,Electrical & Automation,Drive Tuning,EMI Finance
+BST-16232,67077,-16572,4,Process Optimization,Line Balancing,Framework Agreement
+BST-17381,40099,7327,13,Process Optimization,OEE Consulting,EMI Finance
+BST-17253,81879,-8704,6,Electrical & Automation,Sensor Calibration,Warranty
+BST-14871,45158,-6401,19,Electrical & Automation,PLC Upgrade,Warranty
+BST-19642,45352,8822,8,Electrical & Automation,HMI Replacement,Spot Order
+BST-17025,75760,36876,4,Process Optimization,OEE Consulting,EMI Finance
+BST-15003,43147,8848,15,Process Optimization,Scrap Reduction,Spot Order
+BST-19316,9623,2388,20,Electrical & Automation,Drive Tuning,Warranty
+BST-10986,8558,-2220,5,Electrical & Automation,Drive Tuning,EMI Finance
+BST-19988,19731,6134,15,Process Optimization,OEE Consulting,EMI Finance
+BST-11625,81184,18504,7,Electrical & Automation,Drive Tuning,Spot Order
+BST-13404,39786,8763,10,Process Optimization,Yield Improvement,Warranty
+BST-13457,12203,2839,20,Process Optimization,Yield Improvement,EMI Finance
+BST-14335,39059,-11232,18,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-11330,47586,-11434,10,Mechanical Service,Frame Repair,Annual Contract
+BST-12573,77853,3446,11,Mechanical Service,Oven Maintenance,Warranty
+BST-13929,57541,11227,6,Electrical & Automation,Drive Tuning,Warranty
+BST-12847,73300,2535,12,Mechanical Service,Roll Replacement,Warranty
+BST-19043,16955,-3657,3,Mechanical Service,Drive Overhaul,Annual Contract
+BST-11229,57743,36087,5,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12564,60272,32762,20,Mechanical Service,Oven Maintenance,Warranty
+BST-10043,60058,9574,18,Process Optimization,Line Balancing,Warranty
+BST-16693,30088,-4940,20,Electrical & Automation,Control Panel Service,Annual Contract
+BST-17381,31531,11418,9,Process Optimization,Scrap Reduction,Warranty
+BST-19729,48599,-15383,2,Process Optimization,Throughput Analysis,EMI Finance
+BST-17699,15332,3530,3,Electrical & Automation,Control Panel Service,Spot Order
+BST-14771,37124,4266,3,Process Optimization,Throughput Analysis,EMI Finance
+BST-10534,32642,3997,3,Process Optimization,OEE Consulting,EMI Finance
+BST-13792,80852,-24031,11,Process Optimization,Yield Improvement,EMI Finance
+BST-14720,60011,9761,16,Mechanical Service,Oven Maintenance,EMI Finance
+BST-14632,55683,162,10,Process Optimization,Yield Improvement,Framework Agreement
+BST-17438,78833,31487,19,Mechanical Service,Line Inspection,Framework Agreement
+BST-11166,76278,-13800,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-13824,4078,-257,3,Process Optimization,Throughput Analysis,Spot Order
+BST-14334,36918,-3616,20,Process Optimization,OEE Consulting,Framework Agreement
+BST-19663,2361,924,20,Electrical & Automation,Control Panel Service,Spot Order
+BST-13241,59043,1167,6,Process Optimization,Line Balancing,Framework Agreement
+BST-16965,64059,-10838,17,Process Optimization,Line Balancing,Annual Contract
+BST-11880,19514,4791,5,Electrical & Automation,PLC Upgrade,Warranty
+BST-18922,31688,9844,6,Electrical & Automation,Drive Tuning,Spot Order
+BST-13683,7620,2227,4,Process Optimization,Yield Improvement,Annual Contract
+BST-12441,52764,6660,16,Mechanical Service,Oven Maintenance,EMI Finance
+BST-14352,51627,6432,5,Mechanical Service,Oven Maintenance,EMI Finance
+BST-12330,38352,22137,15,Electrical & Automation,PLC Upgrade,Warranty
+BST-11169,70001,23301,2,Process Optimization,Yield Improvement,Annual Contract
+BST-10977,57095,14872,9,Process Optimization,Yield Improvement,Framework Agreement
+BST-12718,13381,-1266,19,Electrical & Automation,Control Panel Service,Warranty
+BST-15039,77665,32657,17,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-19749,41560,8212,1,Process Optimization,Line Balancing,Annual Contract
+BST-19325,13305,2331,15,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-14728,33516,-5259,1,Mechanical Service,Drive Overhaul,EMI Finance
+BST-17195,78374,24029,7,Mechanical Service,Line Inspection,EMI Finance
+BST-12037,16225,-4277,20,Process Optimization,OEE Consulting,Spot Order
+BST-17679,24717,13495,6,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-14982,10424,3010,9,Electrical & Automation,Drive Tuning,Warranty
+BST-16594,34229,-6436,3,Process Optimization,Yield Improvement,Framework Agreement
+BST-14460,51433,-892,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-18199,58247,-16344,7,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-18847,64994,-15700,18,Electrical & Automation,Sensor Calibration,Warranty
+BST-18090,84823,-20675,15,Mechanical Service,Frame Repair,Framework Agreement
+BST-17172,10057,-2811,9,Mechanical Service,Line Inspection,Warranty
+BST-11317,20010,6060,1,Mechanical Service,Oven Maintenance,Annual Contract
+BST-19798,35422,-7027,11,Process Optimization,Scrap Reduction,Warranty
+BST-10653,68052,24335,16,Process Optimization,OEE Consulting,Warranty
+BST-17078,9688,1841,1,Electrical & Automation,Drive Tuning,Warranty
+BST-15280,16386,3559,12,Process Optimization,Scrap Reduction,Framework Agreement
+BST-19891,53009,-15627,3,Process Optimization,Yield Improvement,Framework Agreement
+BST-14102,11045,5425,10,Process Optimization,Yield Improvement,Spot Order
+BST-10423,5655,3492,7,Mechanical Service,Frame Repair,Framework Agreement
+BST-11496,14494,4067,12,Process Optimization,Scrap Reduction,Warranty
+BST-13750,25333,-5321,7,Mechanical Service,Oven Maintenance,Annual Contract
+BST-19424,31758,4421,3,Process Optimization,Throughput Analysis,EMI Finance
+BST-19619,65994,12138,15,Process Optimization,Yield Improvement,Annual Contract
+BST-10339,7847,-96,2,Mechanical Service,Drive Overhaul,Warranty
+BST-14415,69066,7484,18,Mechanical Service,Roll Replacement,Spot Order
+BST-19441,31037,17840,2,Process Optimization,Throughput Analysis,Spot Order
+BST-10659,62263,34691,20,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-12870,2382,-423,2,Mechanical Service,Roll Replacement,Framework Agreement
+BST-17708,80614,-14454,19,Mechanical Service,Oven Maintenance,Annual Contract
+BST-18502,65661,16085,20,Mechanical Service,Line Inspection,Spot Order
+BST-17245,56364,-713,13,Mechanical Service,Roll Replacement,Framework Agreement
+BST-14557,72050,-15322,7,Mechanical Service,Frame Repair,Annual Contract
+BST-12973,44475,-12754,9,Process Optimization,Line Balancing,Spot Order
+BST-19590,48987,9964,15,Electrical & Automation,Sensor Calibration,Spot Order
+BST-17141,17981,-4495,20,Process Optimization,OEE Consulting,Warranty
+BST-18056,64327,-17321,1,Mechanical Service,Line Inspection,Spot Order
+BST-11494,37689,2495,16,Mechanical Service,Frame Repair,Spot Order
+BST-17700,84363,-6668,15,Mechanical Service,Roll Replacement,Warranty
+BST-15700,80524,27512,20,Mechanical Service,Roll Replacement,Spot Order
+BST-16690,80722,48457,10,Process Optimization,Scrap Reduction,Framework Agreement
+BST-15460,73600,-8416,4,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-15260,47935,24577,18,Mechanical Service,Frame Repair,EMI Finance
+BST-11713,82611,25553,9,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12634,20058,6724,16,Mechanical Service,Line Inspection,Warranty
+BST-15403,6151,-1820,12,Mechanical Service,Roll Replacement,Framework Agreement
+BST-16744,33449,-525,15,Mechanical Service,Oven Maintenance,Annual Contract
+BST-18117,70932,-12350,1,Mechanical Service,Line Inspection,Warranty
+BST-14722,9787,5334,15,Process Optimization,OEE Consulting,EMI Finance
+BST-16561,55427,-8383,11,Process Optimization,Yield Improvement,Spot Order
+BST-19012,30355,-7647,14,Mechanical Service,Drive Overhaul,Spot Order
+BST-10601,10137,1226,16,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-17451,28833,16662,15,Electrical & Automation,Sensor Calibration,Spot Order
+BST-11442,18378,1980,7,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-15153,44525,-9919,19,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-14135,15063,7556,15,Electrical & Automation,Sensor Calibration,Warranty
+BST-15296,29316,15725,20,Mechanical Service,Drive Overhaul,Spot Order
+BST-11899,22773,5195,18,Process Optimization,Throughput Analysis,Spot Order
+BST-16622,68889,9590,7,Mechanical Service,Oven Maintenance,EMI Finance
+BST-18431,37091,-12443,14,Electrical & Automation,Drive Tuning,Spot Order
+BST-10018,57417,13175,19,Mechanical Service,Drive Overhaul,Spot Order
+BST-18889,55258,34822,2,Process Optimization,OEE Consulting,Warranty
+BST-17569,4906,371,13,Process Optimization,Throughput Analysis,Warranty
+BST-16770,59802,8688,3,Process Optimization,OEE Consulting,EMI Finance
+BST-10888,29074,-6317,10,Mechanical Service,Oven Maintenance,Spot Order
+BST-13073,2587,335,10,Process Optimization,OEE Consulting,Spot Order
+BST-18494,75260,29899,1,Process Optimization,Scrap Reduction,Warranty
+BST-15927,53631,-8852,12,Electrical & Automation,Sensor Calibration,Warranty
+BST-18167,82722,-23104,11,Process Optimization,OEE Consulting,EMI Finance
+BST-17242,56323,22691,20,Mechanical Service,Drive Overhaul,EMI Finance
+BST-10845,11111,3005,11,Process Optimization,Line Balancing,Annual Contract
+BST-13335,7258,-1734,12,Process Optimization,Yield Improvement,Warranty
+BST-14375,48416,795,18,Process Optimization,OEE Consulting,Annual Contract
+BST-18998,18641,11767,8,Process Optimization,Line Balancing,EMI Finance
+BST-12146,76537,39885,7,Mechanical Service,Oven Maintenance,Spot Order
+BST-14719,35543,5458,14,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-17178,49365,-235,16,Mechanical Service,Line Inspection,EMI Finance
+BST-17941,62125,22354,18,Process Optimization,OEE Consulting,Framework Agreement
+BST-11989,48753,21934,3,Electrical & Automation,HMI Replacement,Spot Order
+BST-10472,11008,447,6,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-19975,22096,-1636,5,Mechanical Service,Line Inspection,Warranty
+BST-13920,68747,41392,1,Mechanical Service,Roll Replacement,Framework Agreement
+BST-12594,17805,2206,14,Electrical & Automation,HMI Replacement,Warranty
+BST-15091,38709,-6229,1,Process Optimization,OEE Consulting,Spot Order
+BST-19024,54461,12455,11,Process Optimization,Yield Improvement,Warranty
+BST-10224,72388,6895,10,Process Optimization,Throughput Analysis,EMI Finance
+BST-19048,23009,10107,8,Mechanical Service,Drive Overhaul,Warranty
+BST-16684,6702,-1351,10,Electrical & Automation,Control Panel Service,Warranty
+BST-11527,21575,7806,10,Mechanical Service,Frame Repair,Spot Order
+BST-13681,21635,-2425,2,Mechanical Service,Roll Replacement,Framework Agreement
+BST-11858,58288,-5222,6,Process Optimization,Line Balancing,Spot Order
+BST-17560,42042,26403,5,Process Optimization,OEE Consulting,Framework Agreement
+BST-11924,21811,4005,4,Electrical & Automation,HMI Replacement,Annual Contract
+BST-12522,19555,11689,11,Electrical & Automation,Drive Tuning,Spot Order
+BST-18165,67007,-1254,10,Mechanical Service,Frame Repair,Warranty
+BST-14781,19778,8891,15,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-18337,63281,34815,5,Process Optimization,OEE Consulting,EMI Finance
+BST-14479,3750,193,8,Mechanical Service,Drive Overhaul,Warranty
+BST-16807,43277,-12765,7,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-17905,36928,-5697,3,Process Optimization,Line Balancing,EMI Finance
+BST-17736,67581,3002,16,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-13993,67550,40084,12,Process Optimization,Throughput Analysis,Warranty
+BST-17483,48948,1767,1,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-19031,40881,25653,18,Electrical & Automation,Control Panel Service,Annual Contract
+BST-12369,54974,24940,10,Mechanical Service,Oven Maintenance,Spot Order
+BST-16284,54789,-11529,19,Process Optimization,Scrap Reduction,EMI Finance
+BST-13122,27734,-1297,17,Mechanical Service,Roll Replacement,Framework Agreement
+BST-19820,49753,-13012,14,Mechanical Service,Frame Repair,Framework Agreement
+BST-18327,73351,8224,19,Electrical & Automation,Sensor Calibration,Spot Order
+BST-12236,50539,-3059,16,Mechanical Service,Roll Replacement,Annual Contract
+BST-11143,40334,5812,15,Electrical & Automation,HMI Replacement,Spot Order
+BST-14526,20688,-1806,16,Mechanical Service,Line Inspection,Annual Contract
+BST-16798,55177,-9414,8,Process Optimization,Yield Improvement,Annual Contract
+BST-15568,65125,41962,3,Mechanical Service,Drive Overhaul,EMI Finance
+BST-18318,76661,10003,14,Process Optimization,Yield Improvement,Framework Agreement
+BST-14377,16174,375,19,Process Optimization,Scrap Reduction,Annual Contract
+BST-10042,76738,-22368,11,Electrical & Automation,Sensor Calibration,Warranty
+BST-14634,47343,-8838,9,Process Optimization,Line Balancing,Framework Agreement
+BST-14891,6885,-414,17,Electrical & Automation,Control Panel Service,Annual Contract
+BST-19616,82817,-13809,4,Process Optimization,Line Balancing,EMI Finance
+BST-19501,42784,22352,10,Mechanical Service,Frame Repair,Framework Agreement
+BST-18022,13061,2408,12,Process Optimization,Yield Improvement,Spot Order
+BST-12434,68417,-4692,16,Mechanical Service,Roll Replacement,Warranty
+BST-17316,13924,-1839,17,Electrical & Automation,Sensor Calibration,Spot Order
+BST-18824,80903,27478,17,Mechanical Service,Frame Repair,EMI Finance
+BST-17935,15437,1039,3,Process Optimization,Throughput Analysis,Annual Contract
+BST-15654,63351,-113,12,Mechanical Service,Line Inspection,Spot Order
+BST-15446,69066,28564,11,Electrical & Automation,HMI Replacement,Spot Order
+BST-19042,4269,1683,4,Process Optimization,Yield Improvement,Spot Order
+BST-18903,30197,-1285,7,Mechanical Service,Roll Replacement,Spot Order
+BST-16180,15143,-4122,16,Mechanical Service,Oven Maintenance,Warranty
+BST-17460,14631,-4641,17,Mechanical Service,Roll Replacement,EMI Finance
+BST-15272,16087,8985,2,Mechanical Service,Oven Maintenance,Annual Contract
+BST-13090,13148,5684,20,Electrical & Automation,PLC Upgrade,Spot Order
+BST-13912,24719,7924,1,Process Optimization,Line Balancing,Annual Contract
+BST-19368,76489,-165,6,Mechanical Service,Drive Overhaul,EMI Finance
+BST-16274,32196,4987,3,Process Optimization,Throughput Analysis,Annual Contract
+BST-13826,69815,-9285,7,Process Optimization,OEE Consulting,Framework Agreement
+BST-16730,1067,665,4,Mechanical Service,Frame Repair,Spot Order
+BST-10715,48533,16895,6,Process Optimization,Scrap Reduction,Warranty
+BST-15213,24204,11732,13,Process Optimization,OEE Consulting,Warranty
+BST-17749,30325,1746,11,Mechanical Service,Frame Repair,Annual Contract
+BST-16246,68621,-14690,12,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-16325,11280,-246,4,Process Optimization,OEE Consulting,Warranty
+BST-12492,79194,30582,15,Electrical & Automation,Drive Tuning,Spot Order
+BST-18115,38588,24501,14,Process Optimization,Scrap Reduction,Spot Order
+BST-10606,48661,-8306,16,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12068,69006,21291,3,Electrical & Automation,Drive Tuning,Annual Contract
+BST-18229,53010,18290,4,Mechanical Service,Oven Maintenance,Spot Order
+BST-19669,26594,-302,20,Mechanical Service,Drive Overhaul,Warranty
+BST-15439,56166,21073,9,Mechanical Service,Roll Replacement,EMI Finance
+BST-11644,84888,50357,12,Process Optimization,Yield Improvement,Warranty
+BST-17213,53511,34114,17,Process Optimization,Throughput Analysis,Framework Agreement
+BST-11633,14660,-3339,16,Mechanical Service,Oven Maintenance,Warranty
+BST-18617,4395,-1100,2,Mechanical Service,Roll Replacement,Annual Contract
+BST-17486,23974,782,11,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10251,82188,-20848,3,Electrical & Automation,HMI Replacement,EMI Finance
+BST-12361,26967,-1521,16,Electrical & Automation,Drive Tuning,Warranty
+BST-16717,71598,-457,18,Process Optimization,Yield Improvement,EMI Finance
+BST-12529,56914,30171,4,Mechanical Service,Line Inspection,Warranty
+BST-11225,49827,4611,2,Electrical & Automation,Control Panel Service,Annual Contract
+BST-17692,40220,21505,6,Mechanical Service,Frame Repair,Warranty
+BST-14342,41454,15160,16,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-15546,73085,24510,19,Process Optimization,Scrap Reduction,Warranty
+BST-16512,20987,3288,13,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-11315,50018,13351,12,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-15383,4189,1007,5,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-18742,4025,1671,11,Electrical & Automation,HMI Replacement,Warranty
+BST-16226,45738,29361,14,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-15188,32955,-3802,10,Mechanical Service,Roll Replacement,EMI Finance
+BST-17994,40465,-9530,6,Mechanical Service,Line Inspection,Annual Contract
+BST-18864,5399,598,14,Process Optimization,Yield Improvement,EMI Finance
+BST-10588,35446,-11682,16,Process Optimization,Scrap Reduction,EMI Finance
+BST-11121,50010,11019,11,Mechanical Service,Drive Overhaul,EMI Finance
+BST-13846,13614,4640,7,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-14708,45004,-8252,10,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-13727,65636,18735,3,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-11480,35254,-10663,19,Mechanical Service,Drive Overhaul,Warranty
+BST-17110,12553,4615,19,Mechanical Service,Frame Repair,Annual Contract
+BST-11612,36330,-10271,17,Process Optimization,Yield Improvement,Warranty
+BST-11646,46023,20510,10,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-17269,71272,-2611,14,Electrical & Automation,Drive Tuning,Warranty
+BST-12725,68050,7024,18,Electrical & Automation,HMI Replacement,Spot Order
+BST-14906,24950,5659,7,Mechanical Service,Frame Repair,Warranty
+BST-10474,81033,40741,14,Electrical & Automation,HMI Replacement,EMI Finance
+BST-10753,68954,-10298,15,Process Optimization,OEE Consulting,Spot Order
+BST-15314,39857,19694,14,Mechanical Service,Roll Replacement,Framework Agreement
+BST-10919,54559,-4531,10,Mechanical Service,Roll Replacement,Spot Order
+BST-14806,31450,1756,4,Electrical & Automation,HMI Replacement,Spot Order
+BST-15873,32689,14613,10,Mechanical Service,Line Inspection,Warranty
+BST-16141,57664,4152,2,Electrical & Automation,HMI Replacement,Spot Order
+BST-17056,18382,-5898,9,Mechanical Service,Drive Overhaul,EMI Finance
+BST-12385,64180,27740,2,Mechanical Service,Line Inspection,Annual Contract
+BST-14000,39556,20457,14,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-18702,52521,31153,5,Process Optimization,OEE Consulting,Spot Order
+BST-16751,66068,38513,17,Mechanical Service,Frame Repair,EMI Finance
+BST-19272,65570,35051,8,Process Optimization,Yield Improvement,EMI Finance
+BST-12950,43660,21058,13,Mechanical Service,Drive Overhaul,Spot Order
+BST-12785,19410,-4720,7,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-12868,33832,17352,2,Electrical & Automation,Drive Tuning,Warranty
+BST-11293,15306,-512,14,Process Optimization,Yield Improvement,Warranty
+BST-19985,36903,19537,5,Process Optimization,Line Balancing,Framework Agreement
+BST-16267,40892,-13450,20,Electrical & Automation,Control Panel Service,Annual Contract
+BST-13945,31914,-3096,13,Process Optimization,OEE Consulting,Framework Agreement
+BST-18153,16497,3050,8,Process Optimization,Yield Improvement,Warranty
+BST-19554,52008,30035,9,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-12344,39483,-5512,6,Mechanical Service,Roll Replacement,Warranty
+BST-13804,84966,4782,2,Process Optimization,Yield Improvement,Framework Agreement
+BST-17555,62246,24085,11,Mechanical Service,Oven Maintenance,Warranty
+BST-14161,34705,5425,12,Mechanical Service,Roll Replacement,Warranty
+BST-17529,43330,4474,1,Process Optimization,Throughput Analysis,Annual Contract
+BST-14183,83095,7761,5,Process Optimization,Line Balancing,Annual Contract
+BST-10153,82852,-3682,19,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-17622,33216,5526,5,Mechanical Service,Roll Replacement,EMI Finance
+BST-14712,42364,4299,5,Process Optimization,Scrap Reduction,Framework Agreement
+BST-18955,43436,19525,7,Mechanical Service,Frame Repair,Annual Contract
+BST-12588,24340,1058,13,Electrical & Automation,Control Panel Service,EMI Finance
+BST-11210,3510,2011,20,Mechanical Service,Line Inspection,Spot Order
+BST-17237,26487,-2336,6,Mechanical Service,Oven Maintenance,Annual Contract
+BST-15661,56717,14201,5,Electrical & Automation,HMI Replacement,Annual Contract
+BST-19626,74849,-17413,17,Electrical & Automation,Sensor Calibration,Warranty
+BST-14901,16033,-2012,7,Electrical & Automation,Drive Tuning,Spot Order
+BST-16951,65271,2093,14,Electrical & Automation,Control Panel Service,Spot Order
+BST-14097,37589,14160,7,Process Optimization,Line Balancing,Warranty
+BST-17484,19629,-6305,9,Mechanical Service,Oven Maintenance,Spot Order
+BST-14949,33047,648,15,Process Optimization,Scrap Reduction,Annual Contract
+BST-13263,17959,9364,13,Mechanical Service,Oven Maintenance,Spot Order
+BST-16302,55981,21614,9,Process Optimization,Scrap Reduction,Annual Contract
+BST-17916,8200,-2442,8,Mechanical Service,Frame Repair,Warranty
+BST-11747,78911,28373,2,Electrical & Automation,HMI Replacement,Annual Contract
+BST-13886,81719,2528,13,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-16248,5890,1357,9,Mechanical Service,Frame Repair,Spot Order
+BST-19370,44956,23732,5,Process Optimization,Scrap Reduction,Annual Contract
+BST-15881,57244,-11918,4,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-19417,65932,34395,9,Mechanical Service,Roll Replacement,Framework Agreement
+BST-14847,35000,9202,9,Electrical & Automation,Control Panel Service,EMI Finance
+BST-14837,22124,-762,16,Electrical & Automation,Drive Tuning,Spot Order
+BST-10359,7475,-1204,2,Process Optimization,Scrap Reduction,Spot Order
+BST-16484,62136,-5578,15,Mechanical Service,Line Inspection,Warranty
+BST-14497,5846,535,18,Mechanical Service,Oven Maintenance,Warranty
+BST-10132,15244,7558,5,Electrical & Automation,Drive Tuning,Annual Contract
+BST-19272,27203,14095,6,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10803,36255,7731,19,Process Optimization,Throughput Analysis,Spot Order
+BST-19935,69445,28947,6,Process Optimization,OEE Consulting,Warranty
+BST-18138,65788,21506,11,Mechanical Service,Roll Replacement,Annual Contract
+BST-14689,52164,1228,4,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-13770,11125,1226,16,Mechanical Service,Line Inspection,Warranty
+BST-19946,78383,24142,11,Process Optimization,Yield Improvement,Annual Contract
+BST-15772,59888,-1502,19,Process Optimization,Throughput Analysis,Spot Order
+BST-13588,84863,-5689,2,Mechanical Service,Line Inspection,Annual Contract
+BST-13115,50489,-12998,9,Process Optimization,Throughput Analysis,Spot Order
+BST-14106,12190,-4016,7,Mechanical Service,Oven Maintenance,Spot Order
+BST-12240,37847,11246,5,Electrical & Automation,Drive Tuning,Annual Contract
+BST-11591,57170,22061,10,Electrical & Automation,Drive Tuning,EMI Finance
+BST-10645,13097,6313,17,Mechanical Service,Drive Overhaul,Spot Order
+BST-15061,51367,6494,19,Electrical & Automation,Drive Tuning,EMI Finance
+BST-17222,55882,25761,20,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10546,12682,-3925,11,Electrical & Automation,Drive Tuning,Warranty
+BST-19495,20825,12092,17,Process Optimization,Line Balancing,EMI Finance
+BST-15977,61870,5404,16,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-12153,39875,19600,17,Mechanical Service,Roll Replacement,Warranty
+BST-11476,6755,1357,2,Electrical & Automation,HMI Replacement,EMI Finance
+BST-14835,56194,3541,15,Mechanical Service,Frame Repair,EMI Finance
+BST-15352,33905,7986,17,Electrical & Automation,Control Panel Service,Annual Contract
+BST-16807,24034,10483,13,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12877,39513,-1424,15,Mechanical Service,Oven Maintenance,Warranty
+BST-13289,45239,27899,6,Process Optimization,Yield Improvement,Spot Order
+BST-12165,79674,-7225,4,Mechanical Service,Line Inspection,Warranty
+BST-18837,1266,56,1,Process Optimization,OEE Consulting,Spot Order
+BST-15994,60814,20786,20,Process Optimization,Scrap Reduction,Warranty
+BST-18697,81337,872,13,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-18221,18209,-6120,4,Mechanical Service,Roll Replacement,Annual Contract
+BST-14465,4014,-565,5,Process Optimization,Line Balancing,Spot Order
+BST-12695,25523,-6735,15,Electrical & Automation,HMI Replacement,Spot Order
+BST-14210,3359,-784,5,Electrical & Automation,Drive Tuning,Warranty
+BST-17894,3072,1566,19,Electrical & Automation,Drive Tuning,Spot Order
+BST-14835,75136,36024,13,Mechanical Service,Drive Overhaul,Annual Contract
+BST-15549,13956,3913,14,Electrical & Automation,PLC Upgrade,Warranty
+BST-11886,78597,29951,10,Electrical & Automation,HMI Replacement,Annual Contract
+BST-17673,64214,10489,20,Electrical & Automation,Drive Tuning,Warranty
+BST-11233,69746,-23084,19,Mechanical Service,Line Inspection,Framework Agreement
+BST-12306,35607,19330,14,Process Optimization,OEE Consulting,Warranty
+BST-13696,82118,48364,12,Mechanical Service,Oven Maintenance,Warranty
+BST-16511,3227,-608,7,Process Optimization,Scrap Reduction,Warranty
+BST-19131,30922,4874,19,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-15992,17691,9432,13,Process Optimization,Scrap Reduction,Warranty
+BST-11479,62408,28068,6,Process Optimization,Yield Improvement,EMI Finance
+BST-16464,11797,3740,5,Mechanical Service,Drive Overhaul,Spot Order
+BST-10228,79896,11360,14,Mechanical Service,Roll Replacement,Warranty
+BST-14332,27950,5780,1,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-18791,21288,-3731,17,Electrical & Automation,Control Panel Service,Annual Contract
+BST-12024,56942,-13440,8,Mechanical Service,Drive Overhaul,Annual Contract
+BST-17451,64248,-5922,11,Process Optimization,Line Balancing,Framework Agreement
+BST-16038,35560,19427,17,Mechanical Service,Frame Repair,EMI Finance
+BST-14295,7108,4098,15,Process Optimization,OEE Consulting,Warranty
+BST-19577,80528,20909,4,Mechanical Service,Line Inspection,EMI Finance
+BST-16242,14316,-2619,4,Mechanical Service,Frame Repair,Spot Order
+BST-16086,38789,13892,17,Electrical & Automation,Sensor Calibration,Warranty
+BST-11775,20723,6156,11,Process Optimization,OEE Consulting,Spot Order
+BST-13830,58054,35972,1,Mechanical Service,Roll Replacement,Spot Order
+BST-17724,38085,5904,3,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-10410,47770,13348,8,Electrical & Automation,Drive Tuning,Spot Order
+BST-19198,30408,-6446,14,Process Optimization,Scrap Reduction,Warranty
+BST-15374,68153,30301,12,Electrical & Automation,Drive Tuning,Annual Contract
+BST-19995,1803,662,17,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-13626,41762,2157,6,Mechanical Service,Drive Overhaul,Warranty
+BST-11035,5361,1662,5,Mechanical Service,Oven Maintenance,EMI Finance
+BST-17606,39261,2720,18,Mechanical Service,Frame Repair,Framework Agreement
+BST-14951,45609,-15602,9,Process Optimization,Yield Improvement,EMI Finance
+BST-16689,53444,5140,7,Process Optimization,Line Balancing,EMI Finance
+BST-11911,58452,20310,13,Process Optimization,Throughput Analysis,Spot Order
+BST-12290,5345,1001,13,Electrical & Automation,PLC Upgrade,Spot Order
+BST-10742,37714,-5139,17,Process Optimization,Throughput Analysis,EMI Finance
+BST-10609,45157,18380,6,Electrical & Automation,HMI Replacement,Annual Contract
+BST-14986,78160,-7136,10,Mechanical Service,Frame Repair,Warranty
+BST-18071,8357,4108,9,Process Optimization,OEE Consulting,EMI Finance
+BST-11902,6756,2746,4,Electrical & Automation,PLC Upgrade,Warranty
+BST-11592,1183,122,8,Electrical & Automation,HMI Replacement,EMI Finance
+BST-13846,78559,-9125,10,Process Optimization,Throughput Analysis,Framework Agreement
+BST-18807,18846,6866,17,Process Optimization,Throughput Analysis,Spot Order
+BST-12222,68192,15845,12,Mechanical Service,Drive Overhaul,Warranty
+BST-16367,56296,26934,3,Mechanical Service,Roll Replacement,Annual Contract
+BST-17432,17547,2215,15,Mechanical Service,Oven Maintenance,Annual Contract
+BST-16078,53289,12695,17,Electrical & Automation,HMI Replacement,Warranty
+BST-18850,65882,18872,15,Electrical & Automation,HMI Replacement,Warranty
+BST-16866,21844,-4492,5,Process Optimization,Scrap Reduction,Warranty
+BST-19622,17458,10789,17,Process Optimization,Scrap Reduction,EMI Finance
+BST-12531,60194,7425,6,Mechanical Service,Roll Replacement,EMI Finance
+BST-16797,79352,39859,4,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-11622,38457,-11910,5,Electrical & Automation,HMI Replacement,Annual Contract
+BST-18017,49581,-2317,16,Electrical & Automation,Control Panel Service,Annual Contract
+BST-16686,77783,5581,10,Mechanical Service,Roll Replacement,Framework Agreement
+BST-14583,64567,-22463,18,Mechanical Service,Roll Replacement,Framework Agreement
+BST-10536,55232,7245,10,Mechanical Service,Line Inspection,EMI Finance
+BST-16070,49954,6255,20,Electrical & Automation,Control Panel Service,Spot Order
+BST-13559,83922,9309,15,Mechanical Service,Frame Repair,Warranty
+BST-17264,12206,5490,20,Mechanical Service,Drive Overhaul,Warranty
+BST-17285,52325,-575,2,Electrical & Automation,Sensor Calibration,Warranty
+BST-13868,12103,6244,1,Process Optimization,Yield Improvement,EMI Finance
+BST-15942,74037,21852,18,Process Optimization,Yield Improvement,Annual Contract
+BST-11627,71519,16224,2,Mechanical Service,Frame Repair,EMI Finance
+BST-16018,62868,9596,1,Process Optimization,Line Balancing,Annual Contract
+BST-18920,24059,14733,9,Process Optimization,Throughput Analysis,Spot Order
+BST-15876,58726,-15583,18,Mechanical Service,Frame Repair,EMI Finance
+BST-10992,77687,-23695,1,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-16523,54886,-17889,17,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-14520,12430,-2925,4,Electrical & Automation,Control Panel Service,EMI Finance
+BST-13109,19378,-3242,3,Mechanical Service,Drive Overhaul,Spot Order
+BST-12001,22676,-6600,11,Electrical & Automation,Drive Tuning,Spot Order
+BST-17450,39562,1580,11,Mechanical Service,Line Inspection,Spot Order
+BST-11501,34307,875,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-13475,78750,18587,16,Mechanical Service,Roll Replacement,EMI Finance
+BST-19783,15583,-1257,11,Process Optimization,Scrap Reduction,Warranty
+BST-10349,9079,1218,14,Process Optimization,Scrap Reduction,Spot Order
+BST-10828,73123,44859,4,Mechanical Service,Drive Overhaul,Spot Order
+BST-15464,40426,8822,15,Process Optimization,Line Balancing,Annual Contract
+BST-13990,27167,11760,5,Process Optimization,Throughput Analysis,Framework Agreement
+BST-12063,32633,6119,14,Process Optimization,Line Balancing,EMI Finance
+BST-19250,631,291,20,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-13362,571,-165,16,Process Optimization,Line Balancing,Framework Agreement
+BST-11124,50327,32674,7,Process Optimization,Yield Improvement,EMI Finance
+BST-19080,6461,-1218,18,Process Optimization,Yield Improvement,EMI Finance
+BST-13394,12259,555,4,Mechanical Service,Drive Overhaul,Spot Order
+BST-19607,37129,19614,7,Process Optimization,Throughput Analysis,EMI Finance
+BST-13538,45409,12949,15,Process Optimization,Yield Improvement,Framework Agreement
+BST-13817,45278,-6310,20,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-15383,768,198,1,Mechanical Service,Roll Replacement,Annual Contract
+BST-12417,54654,11247,16,Process Optimization,Line Balancing,Warranty
+BST-19764,10661,2011,15,Process Optimization,OEE Consulting,Annual Contract
+BST-10046,79315,631,6,Electrical & Automation,Drive Tuning,Annual Contract
+BST-14542,49059,28760,15,Mechanical Service,Oven Maintenance,Annual Contract
+BST-12370,37348,12345,12,Mechanical Service,Line Inspection,Spot Order
+BST-12129,82451,-3860,8,Mechanical Service,Frame Repair,Spot Order
+BST-18850,5322,-368,20,Electrical & Automation,Control Panel Service,Spot Order
+BST-14106,84181,3879,9,Mechanical Service,Roll Replacement,EMI Finance
+BST-12858,22844,4609,19,Process Optimization,Scrap Reduction,EMI Finance
+BST-11801,9066,2159,3,Process Optimization,Line Balancing,Spot Order
+BST-10422,30379,16131,9,Electrical & Automation,HMI Replacement,Spot Order
+BST-12159,70353,18605,18,Process Optimization,OEE Consulting,Warranty
+BST-10243,84512,27305,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-15869,36418,-8313,17,Electrical & Automation,Drive Tuning,Warranty
+BST-13898,68297,27934,8,Electrical & Automation,Control Panel Service,Annual Contract
+BST-19647,70284,6948,1,Electrical & Automation,Drive Tuning,Warranty
+BST-15304,11222,5948,1,Mechanical Service,Drive Overhaul,Spot Order
+BST-10258,10257,5815,7,Process Optimization,Scrap Reduction,Spot Order
+BST-12854,8737,2411,4,Electrical & Automation,Control Panel Service,Annual Contract
+BST-14347,3648,884,11,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-10858,62572,-6985,11,Mechanical Service,Line Inspection,Annual Contract
+BST-12076,31530,18714,20,Electrical & Automation,HMI Replacement,EMI Finance
+BST-16897,82465,7954,4,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-18619,49965,-1834,3,Mechanical Service,Line Inspection,Spot Order
+BST-11862,7681,-372,14,Mechanical Service,Oven Maintenance,Annual Contract
+BST-11041,73803,-21978,13,Mechanical Service,Line Inspection,Warranty
+BST-17802,54384,-6356,20,Mechanical Service,Frame Repair,EMI Finance
+BST-17344,50821,5804,14,Mechanical Service,Oven Maintenance,EMI Finance
+BST-15931,45014,13545,1,Process Optimization,OEE Consulting,Warranty
+BST-18408,77545,-12214,4,Process Optimization,Yield Improvement,Annual Contract
+BST-19726,78210,34366,7,Process Optimization,OEE Consulting,EMI Finance
+BST-11786,34091,183,16,Mechanical Service,Frame Repair,EMI Finance
+BST-17405,32370,-6873,2,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-18254,77114,6620,12,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-13629,19587,-3968,10,Process Optimization,Throughput Analysis,EMI Finance
+BST-10710,48843,30295,17,Electrical & Automation,Control Panel Service,EMI Finance
+BST-18543,8012,-902,18,Process Optimization,Line Balancing,Annual Contract
+BST-14941,26112,16359,7,Electrical & Automation,Control Panel Service,Annual Contract
+BST-17504,62854,21670,15,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-10510,76313,16491,11,Process Optimization,Yield Improvement,EMI Finance
+BST-10996,43572,-8179,15,Electrical & Automation,Drive Tuning,Annual Contract
+BST-17847,984,284,8,Electrical & Automation,Sensor Calibration,Warranty
+BST-16580,31828,4161,11,Process Optimization,Line Balancing,Warranty
+BST-16984,24649,11735,1,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-11768,47408,-15169,4,Mechanical Service,Line Inspection,Spot Order
+BST-18032,25980,7309,12,Electrical & Automation,Drive Tuning,Annual Contract
+BST-17267,26429,-1741,8,Mechanical Service,Roll Replacement,Framework Agreement
+BST-11204,45040,22408,8,Process Optimization,Line Balancing,Spot Order
+BST-11323,23578,11621,4,Mechanical Service,Line Inspection,Annual Contract
+BST-15277,50166,15294,4,Process Optimization,Line Balancing,Framework Agreement
+BST-19966,60295,-6623,12,Mechanical Service,Drive Overhaul,Spot Order
+BST-12430,57348,30301,3,Process Optimization,Throughput Analysis,Annual Contract
+BST-11076,25356,-4014,13,Mechanical Service,Roll Replacement,Framework Agreement
+BST-12067,56800,35612,8,Electrical & Automation,HMI Replacement,Annual Contract
+BST-14505,25285,12754,10,Process Optimization,Throughput Analysis,Spot Order
+BST-19590,7480,2090,9,Electrical & Automation,Sensor Calibration,Spot Order
+BST-18984,64592,-9092,3,Process Optimization,Throughput Analysis,Warranty
+BST-15327,9003,-1643,13,Process Optimization,Throughput Analysis,EMI Finance
+BST-16240,68512,7828,11,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-19787,65353,8087,19,Process Optimization,Scrap Reduction,Warranty
+BST-18692,5297,-756,7,Process Optimization,Throughput Analysis,Warranty
+BST-14831,29151,-1282,13,Mechanical Service,Oven Maintenance,EMI Finance
+BST-17433,33861,6790,5,Mechanical Service,Drive Overhaul,Annual Contract
+BST-18282,68502,107,19,Electrical & Automation,Drive Tuning,Annual Contract
+BST-19919,81912,-1116,15,Electrical & Automation,HMI Replacement,Warranty
+BST-17048,48670,22120,11,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-11624,24036,2203,9,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-11874,39103,19262,17,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-19033,36731,21179,4,Process Optimization,OEE Consulting,Annual Contract
+BST-13522,5517,1081,11,Mechanical Service,Drive Overhaul,Spot Order
+BST-17046,33271,-1573,9,Process Optimization,Yield Improvement,Spot Order
+BST-17398,18570,12040,18,Process Optimization,Throughput Analysis,Framework Agreement
+BST-13743,37442,17684,13,Mechanical Service,Drive Overhaul,Warranty
+BST-16779,62366,18964,5,Process Optimization,OEE Consulting,Warranty
+BST-15553,28008,3485,17,Mechanical Service,Roll Replacement,EMI Finance
+BST-17430,60976,-569,3,Process Optimization,Scrap Reduction,Framework Agreement
+BST-16532,55247,-7757,15,Mechanical Service,Oven Maintenance,EMI Finance
+BST-16815,18712,4257,5,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-11557,66009,30390,12,Process Optimization,OEE Consulting,Framework Agreement
+BST-15120,56299,18903,13,Mechanical Service,Oven Maintenance,EMI Finance
+BST-16992,77433,-25302,2,Electrical & Automation,Control Panel Service,Spot Order
+BST-15120,74973,20980,20,Mechanical Service,Drive Overhaul,EMI Finance
+BST-14176,50480,-7359,13,Process Optimization,Scrap Reduction,Annual Contract
+BST-16132,25185,3142,11,Process Optimization,Scrap Reduction,EMI Finance
+BST-12500,12721,-2271,18,Electrical & Automation,Control Panel Service,Spot Order
+BST-17770,64543,-20857,7,Mechanical Service,Frame Repair,Annual Contract
+BST-11099,27486,-3214,17,Electrical & Automation,Control Panel Service,Annual Contract
+BST-11494,48819,8227,6,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-11398,21082,13483,5,Electrical & Automation,Drive Tuning,EMI Finance
+BST-11527,9512,370,7,Electrical & Automation,Drive Tuning,Spot Order
+BST-17075,57149,26739,16,Mechanical Service,Drive Overhaul,Spot Order
+BST-11582,41173,9778,17,Process Optimization,Throughput Analysis,Warranty
+BST-16105,1475,945,15,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-12131,32853,5777,19,Electrical & Automation,HMI Replacement,Warranty
+BST-19115,76014,-23633,3,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-10982,45953,16098,10,Process Optimization,Scrap Reduction,Warranty
+BST-19608,54901,-5537,20,Process Optimization,Line Balancing,Warranty
+BST-19201,24544,8554,4,Electrical & Automation,Drive Tuning,Warranty
+BST-19202,31917,17092,6,Process Optimization,OEE Consulting,Framework Agreement
+BST-15400,38758,12272,3,Process Optimization,Throughput Analysis,Spot Order
+BST-12002,72959,-16690,12,Electrical & Automation,Drive Tuning,Annual Contract
+BST-16730,43231,2598,6,Mechanical Service,Frame Repair,Framework Agreement
+BST-15793,6350,712,3,Mechanical Service,Frame Repair,Warranty
+BST-16929,52842,26726,13,Electrical & Automation,Control Panel Service,Annual Contract
+BST-10842,15531,5577,5,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-14712,64038,7131,3,Process Optimization,Scrap Reduction,EMI Finance
+BST-19837,57873,-12138,9,Process Optimization,Line Balancing,Spot Order
+BST-15119,80059,-19973,10,Mechanical Service,Line Inspection,Annual Contract
+BST-15761,22579,-6150,1,Process Optimization,Scrap Reduction,Framework Agreement
+BST-11697,47435,-8161,2,Mechanical Service,Oven Maintenance,EMI Finance
+BST-19468,6759,3288,17,Mechanical Service,Oven Maintenance,Annual Contract
+BST-18313,58694,-17466,1,Electrical & Automation,Control Panel Service,Annual Contract
+BST-13485,33228,818,8,Electrical & Automation,Sensor Calibration,Spot Order
+BST-12535,55770,-17961,1,Mechanical Service,Line Inspection,Framework Agreement
+BST-17900,29410,17903,4,Mechanical Service,Line Inspection,Spot Order
+BST-13674,6268,411,4,Process Optimization,Line Balancing,Framework Agreement
+BST-11773,82654,-13262,7,Electrical & Automation,HMI Replacement,EMI Finance
+BST-15736,16334,-1920,4,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-19113,2465,128,11,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-16022,60632,-7876,9,Electrical & Automation,Sensor Calibration,EMI Finance
+BST-11882,9325,4993,14,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-14564,13844,5018,19,Process Optimization,Scrap Reduction,Spot Order
+BST-19406,79125,-2029,13,Electrical & Automation,PLC Upgrade,Spot Order
+BST-13705,83777,34492,11,Electrical & Automation,Sensor Calibration,Warranty
+BST-17030,2813,727,19,Mechanical Service,Drive Overhaul,Warranty
+BST-19190,84463,33093,17,Electrical & Automation,HMI Replacement,EMI Finance
+BST-19121,30988,-10188,4,Process Optimization,OEE Consulting,Framework Agreement
+BST-10430,32422,8746,2,Mechanical Service,Oven Maintenance,Spot Order
+BST-19977,39377,-5827,13,Electrical & Automation,Drive Tuning,Spot Order
+BST-14381,31703,18178,20,Process Optimization,OEE Consulting,Warranty
+BST-10474,18098,-1300,2,Process Optimization,Yield Improvement,EMI Finance
+BST-12955,3605,-436,11,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-14477,71188,-21066,8,Mechanical Service,Roll Replacement,Spot Order
+BST-15062,68850,-1952,15,Process Optimization,Scrap Reduction,Annual Contract
+BST-15567,9673,5839,2,Mechanical Service,Oven Maintenance,Spot Order
+BST-15751,12527,-2208,18,Mechanical Service,Roll Replacement,Spot Order
+BST-10100,10745,819,15,Mechanical Service,Frame Repair,Framework Agreement
+BST-12972,32602,2413,20,Mechanical Service,Roll Replacement,Spot Order
+BST-12347,76052,7473,7,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-19278,47631,2297,6,Electrical & Automation,PLC Upgrade,Warranty
+BST-16566,66729,17309,14,Electrical & Automation,Drive Tuning,Spot Order
+BST-11140,50493,3908,3,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-12324,20527,4163,6,Process Optimization,Throughput Analysis,Framework Agreement
+BST-10502,40588,4205,13,Electrical & Automation,Drive Tuning,EMI Finance
+BST-11503,9929,-166,16,Process Optimization,Scrap Reduction,Spot Order
+BST-18691,1047,-353,17,Mechanical Service,Roll Replacement,Framework Agreement
+BST-13524,55002,32466,12,Electrical & Automation,Drive Tuning,Warranty
+BST-16163,84523,53885,3,Electrical & Automation,Control Panel Service,Warranty
+BST-16878,50939,29653,6,Mechanical Service,Line Inspection,Spot Order
+BST-17432,46188,7371,16,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-15585,51006,29405,8,Process Optimization,OEE Consulting,Spot Order
+BST-12578,47871,13449,1,Electrical & Automation,PLC Upgrade,Spot Order
+BST-16062,60199,35774,5,Electrical & Automation,HMI Replacement,Framework Agreement
+BST-15105,76304,45918,6,Mechanical Service,Frame Repair,Annual Contract
+BST-15314,84962,30723,13,Mechanical Service,Line Inspection,Warranty
+BST-19299,11031,1859,7,Process Optimization,Throughput Analysis,Warranty
+BST-19768,33644,11500,17,Mechanical Service,Oven Maintenance,EMI Finance
+BST-11391,77318,-3248,14,Process Optimization,Scrap Reduction,Annual Contract
+BST-10861,45640,21187,9,Mechanical Service,Frame Repair,Spot Order
+BST-12549,40883,-14046,6,Process Optimization,Scrap Reduction,Warranty
+BST-12579,9654,4090,14,Mechanical Service,Line Inspection,EMI Finance
+BST-10815,56985,-10221,12,Electrical & Automation,Control Panel Service,Spot Order
+BST-11336,26454,3610,17,Process Optimization,Line Balancing,Annual Contract
+BST-14458,28362,-4661,2,Electrical & Automation,HMI Replacement,Spot Order
+BST-17259,54081,4906,20,Mechanical Service,Drive Overhaul,Annual Contract
+BST-16947,10960,-623,13,Process Optimization,Line Balancing,Annual Contract
+BST-17957,45346,-14525,8,Electrical & Automation,PLC Upgrade,Warranty
+BST-19946,1746,-504,1,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-17242,28165,4853,1,Mechanical Service,Line Inspection,Warranty
+BST-16785,35343,20574,16,Process Optimization,Throughput Analysis,Framework Agreement
+BST-14475,44612,927,11,Process Optimization,Scrap Reduction,Framework Agreement
+BST-13531,52728,1499,2,Mechanical Service,Drive Overhaul,Framework Agreement
+BST-18394,904,96,13,Electrical & Automation,PLC Upgrade,Spot Order
+BST-11864,16608,8619,9,Mechanical Service,Frame Repair,Spot Order
+BST-15655,81548,27415,16,Electrical & Automation,Drive Tuning,EMI Finance
+BST-17043,910,578,11,Electrical & Automation,Sensor Calibration,Annual Contract
+BST-11816,6497,4025,11,Process Optimization,Yield Improvement,Warranty
+BST-14640,64009,3211,20,Mechanical Service,Frame Repair,Annual Contract
+BST-19717,62906,40063,4,Electrical & Automation,Drive Tuning,Warranty
+BST-17972,26069,9435,17,Electrical & Automation,HMI Replacement,EMI Finance
+BST-18633,4660,-1035,3,Process Optimization,Throughput Analysis,Framework Agreement
+BST-15053,61684,-11223,15,Process Optimization,Throughput Analysis,Annual Contract
+BST-10744,32075,-3420,6,Electrical & Automation,HMI Replacement,Annual Contract
+BST-13612,4330,-821,11,Mechanical Service,Oven Maintenance,Warranty
+BST-16475,34267,10826,4,Electrical & Automation,Sensor Calibration,Spot Order
+BST-19819,12354,5504,11,Process Optimization,Scrap Reduction,Spot Order
+BST-10897,8976,2638,13,Process Optimization,Throughput Analysis,Warranty
+BST-10125,57773,26485,8,Process Optimization,Throughput Analysis,Framework Agreement
+BST-13349,11992,-2861,11,Mechanical Service,Drive Overhaul,EMI Finance
+BST-14938,75583,1340,11,Mechanical Service,Line Inspection,Warranty
+BST-13460,41237,-11881,18,Process Optimization,OEE Consulting,Spot Order
+BST-12248,42396,17860,5,Electrical & Automation,Drive Tuning,EMI Finance
+BST-14186,77934,-9964,13,Process Optimization,Throughput Analysis,Annual Contract
+BST-14742,41909,-8603,10,Process Optimization,Scrap Reduction,Spot Order
+BST-15375,19823,4984,5,Electrical & Automation,Drive Tuning,Annual Contract
+BST-11965,40987,6245,4,Process Optimization,Yield Improvement,Framework Agreement
+BST-10126,63189,17760,7,Process Optimization,Throughput Analysis,Warranty
+BST-18149,8208,5180,11,Electrical & Automation,Drive Tuning,Spot Order
+BST-17055,30000,10512,2,Process Optimization,Line Balancing,Spot Order
+BST-12878,39703,25187,6,Electrical & Automation,Drive Tuning,Annual Contract
+BST-12116,44725,3239,16,Process Optimization,Scrap Reduction,Framework Agreement
+BST-16229,9914,1763,10,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-18725,72328,3165,5,Process Optimization,Line Balancing,Framework Agreement
+BST-13770,40355,4339,6,Process Optimization,OEE Consulting,EMI Finance
+BST-18196,63734,-3755,5,Mechanical Service,Oven Maintenance,Spot Order
+BST-19154,1697,20,19,Mechanical Service,Roll Replacement,Annual Contract
+BST-15802,49855,29932,14,Process Optimization,Line Balancing,Spot Order
+BST-11180,47107,29402,6,Mechanical Service,Line Inspection,Annual Contract
+BST-16505,44866,10920,5,Mechanical Service,Frame Repair,Warranty
+BST-10693,16071,-1754,16,Mechanical Service,Line Inspection,Framework Agreement
+BST-17147,23108,6997,13,Process Optimization,Throughput Analysis,Annual Contract
+BST-10307,36573,10325,15,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-17532,15786,-4220,16,Mechanical Service,Line Inspection,EMI Finance
+BST-11275,77419,17263,19,Mechanical Service,Line Inspection,Warranty
+BST-15129,78209,-13209,16,Electrical & Automation,PLC Upgrade,Warranty
+BST-19433,16914,-4237,3,Electrical & Automation,HMI Replacement,EMI Finance
+BST-17033,3088,135,18,Mechanical Service,Oven Maintenance,EMI Finance
+BST-19394,68513,33375,18,Electrical & Automation,PLC Upgrade,Annual Contract
+BST-16626,24180,12380,6,Mechanical Service,Line Inspection,Annual Contract
+BST-16843,41695,-9462,5,Process Optimization,Scrap Reduction,EMI Finance
+BST-14743,12010,2552,2,Mechanical Service,Roll Replacement,Annual Contract
+BST-11887,39635,537,18,Mechanical Service,Frame Repair,Spot Order
+BST-16636,33050,-1632,17,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-10341,58816,-12359,16,Process Optimization,Throughput Analysis,Framework Agreement
+BST-15321,79952,15047,7,Process Optimization,Yield Improvement,Annual Contract
+BST-12815,31577,-9892,5,Process Optimization,OEE Consulting,Framework Agreement
+BST-17538,79424,16049,19,Mechanical Service,Roll Replacement,Framework Agreement
+BST-15928,82067,5910,18,Electrical & Automation,Sensor Calibration,Framework Agreement
+BST-11443,21906,1096,3,Electrical & Automation,Drive Tuning,Framework Agreement
+BST-17155,19275,3583,3,Process Optimization,Scrap Reduction,Framework Agreement
+BST-11734,49277,10527,17,Process Optimization,Line Balancing,EMI Finance
+BST-13986,20618,-693,14,Mechanical Service,Oven Maintenance,Warranty
+BST-17138,32940,-8975,4,Mechanical Service,Frame Repair,EMI Finance
+BST-19648,53817,-15286,3,Mechanical Service,Frame Repair,Framework Agreement
+BST-16560,19679,10210,8,Electrical & Automation,Control Panel Service,Framework Agreement
+BST-18584,49934,31432,8,Mechanical Service,Line Inspection,Warranty
+BST-11288,23533,4153,10,Mechanical Service,Line Inspection,EMI Finance
+BST-16484,69831,-76,19,Electrical & Automation,PLC Upgrade,Framework Agreement
+BST-15083,80121,-20105,2,Process Optimization,Yield Improvement,Spot Order
+BST-15562,24181,-116,18,Electrical & Automation,Drive Tuning,EMI Finance
+BST-13630,63003,15266,9,Process Optimization,Scrap Reduction,Annual Contract
+BST-15456,20880,6421,5,Process Optimization,Throughput Analysis,Warranty
+BST-12754,7429,4222,12,Process Optimization,Yield Improvement,Spot Order
+BST-11251,55320,19737,6,Process Optimization,Throughput Analysis,Warranty
+BST-18363,66328,-4190,14,Electrical & Automation,Drive Tuning,EMI Finance
+BST-11868,40501,11568,3,Process Optimization,Line Balancing,Framework Agreement
+BST-18693,12314,3505,3,Electrical & Automation,Control Panel Service,Spot Order
+BST-18355,75907,-22209,10,Mechanical Service,Roll Replacement,EMI Finance
+BST-13176,56072,18337,5,Electrical & Automation,PLC Upgrade,Warranty
+BST-15724,70283,24450,13,Electrical & Automation,HMI Replacement,Annual Contract
+BST-15752,1455,529,18,Process Optimization,Line Balancing,Framework Agreement
+BST-12419,80348,-24718,15,Mechanical Service,Frame Repair,Spot Order
+BST-13871,30000,-5255,12,Process Optimization,Throughput Analysis,Spot Order
+BST-11684,7172,521,13,Process Optimization,Yield Improvement,Spot Order
+BST-12399,44796,25266,8,Electrical & Automation,PLC Upgrade,EMI Finance
+BST-14193,39713,5286,9,Mechanical Service,Drive Overhaul,Spot Order
+BST-13232,52092,-6904,10,Mechanical Service,Frame Repair,EMI Finance
+BST-12842,81469,40600,2,Mechanical Service,Oven Maintenance,Framework Agreement
+BST-19869,60839,-1304,12,Mechanical Service,Frame Repair,Annual Contract
+BST-12504,24900,1296,1,Mechanical Service,Drive Overhaul,Annual Contract
+BST-11234,26392,-7000,17,Electrical & Automation,Drive Tuning,Spot Order
+BST-12902,64386,-22090,9,Electrical & Automation,PLC Upgrade,Spot Order
+BST-18095,49561,-2513,14,Electrical & Automation,Drive Tuning,Spot Order
+BST-17601,14746,9428,15,Process Optimization,Yield Improvement,Spot Order
+BST-19236,57380,-19749,7,Mechanical Service,Drive Overhaul,Annual Contract
+BST-19494,5776,-1249,14,Mechanical Service,Drive Overhaul,Framework Agreement
